@@ -1,0 +1,192 @@
+﻿MHP,最大生命值
+M. HP,最大生命
+Weapon,武器
+Armor,护甲
+ARM,护甲
+STR,力量
+LDR,统率
+MAG,魔法
+SKL,灵巧
+CAP,规模
+Leader,领导
+Difficulty,难度
+Playtime,游戏时间
+Cadet,学员
+Captain,队长
+Warlord,军阀
+Enabled,启用
+Disabled,禁用
+Permadeath,永久死亡
+Windowed,窗口化
+Large,放大
+Resolution,分辨率
+Fullscreen,全屏
+Normal,普通
+Fast,快速
+Turbo,极快
+All,全部
+Players,玩家
+None,无
+Reserve,预备队
+Class,职业
+Threat,威胁度
+Name,名称
+Lv,等级
+Affinity,亲和
+HP,生命值
+Known Traits,已知特性
+Equipped Artifacts,装备神器
+Resources Used,使用资源
+Carried Resources,携带资源
+Traits,特性
+Selling,卖出
+Buying,购入
+Rarity,稀有度
+Common,普通
+Uncommon,罕见
+Rare,稀有
+Epic,史诗
+Legendary,传说
+Sell Value,卖价
+Original Value,原价
+Total Capacity,总规模
+Cost,花费
+Level,等级
+Item Type,道具类型
+Total Stats,总数据
+Deploy Limit,部署限制
+Save Game?,保存游戏？
+(Outdated),(已过期)
+Squad,小队
+Leader Traits,领袖特性
+Capacity,规模
+Use Item,使用物品
+Requirements,要求
+Current Class,当前职业
+Friends,伙伴
+Family,家人
+Bonded,羁绊
+No Relationships,无关系
+Rewards,奖励
+Victory,胜利
+Defeat,失败
+Challenge Missions,挑战任务
+Morale,士气
+MORALE,士气
+Threat Rating,威胁等级
+Move,移动
+Deployed,已部署
+Scenario Results,战斗总结
+Objectives Captured,占领目标
+Turns Taken,使用回合
+Key Squads Neutralized,解决关键小队
+Rank,等级
+Target Turns,目标回合
+Target Objectives Captured,占领目标
+Ally Squads Remaining,剩余友军小队
+Target Squads Neutralized,解决小队
+Allied Squad Defeated,友军小队战败
+Enemies Defeated,击败敌人
+Ally Losses,损失友军
+Bounty,赏金
+Surrenders,投降
+Home Base,大本营
+Army,军队
+V.Low,极低
+Low,低
+Mid,中
+High,高
+V.High,极高
+MAX,最大
+Light,光
+Dark,暗
+Earth,地
+Lightning,电
+Water,水
+Fire,火
+Turn,回合
+Loading...,加载中……
+Free Action!,免费行动！
+Dodge!,闪避！
+AutoSave,自动保存
+Purchased!,已购买！
+WINNER,胜利
+The other army is plotting...,对方军团回合……
+Voluntary,自愿
+Surrender,投降
+Chance:,概率：
+Charge!,冲锋！
+NO DATA,没有数据
+No Data,没有数据
+Requires,需要
+[Character]'s Squad,[Character]的队伍
+XP,XP
+CP,CP
+Faction XP,阵营XP
+Light Infantry,轻步兵
+Light Cavalry,轻骑兵
+Slow Infantry,慢步兵
+Page,页
+Skip,跳过
+Remaining Healers,剩余治疗
+Remaining Revivers,剩余复活
+Ludicrous,疯狂
+Cycles,周目数
+Memory Fragments,记忆碎片
+Clear Data,通关数据
+Turns Taken,回合数
+Kills,击杀数
+Surrenders,迫降数
+Defeats,死亡数
+Fresh Start,全新开始
+Head Start,加速开始
+Prestige,声望
+Resources,资源
+Bounties,赏金
+Scarce,稀少
+Standard,标准
+Abundant,丰厚
+Shop Prices,商店价格
+Low,低廉
+Medium,适中
+High,高昂
+Game Rules,游戏规则
+Enemy Power,敌方强度
+Challenges,挑战
+Inexperienced Recruits,缺乏经验的新兵
+Well-Equipped Enemies,装备精良的敌人
+Enemy Scramble,混乱敌人
+Dawn of the Risen,复苏者黎明
+Legends DLC Required,需要《传奇》DLC
+Stalwart Enemies,更为顽强的敌人
+Tougher Bosses,更为棘手的首领
+ZoC++,控制区域加强
+Nerfilim,削弱圣灵
+Enemy Specialists,敌方专家
+Nature's Wrath,自然之怒
+Veteran Enemies,敌方老兵
+Heroes' Memory,角色记忆
+Doppelgangers,复制人
+Veteran Troops,老兵部队
+Refund Merits,回退多个华彩之证
+Refund Merit,回退华彩之证
+Early Powers,提前获得圣灵之力
+Merchant Storeroom,商人库房
+Sandbox Arena,沙盒竞技场
+Replay Mission,重玩任务
+Improved Mentorship,改良版导师制度
+CP Growth,职业经验增长
+??,？？
+Locked,未解锁
+Revive Costs,复活费用
+Squad Capacity Penalty,小队规模惩罚
+Limited Exchange,有限交换
+Enemy Advanced AI,进阶版敌方AI
+Enemy Cavalry Hit-And-Run,敌方骑兵打了就跑
+Battle Healing Adjustment,战场治疗调整
+Artifact Capacity Modifier,神器规模修饰器
+Damage Formula Rebalance,伤害公式调整
+Magic Fatigue Modifier,魔法疲劳修饰器
+Smart Gunners,更为聪明的火枪兵
+Specalist,专家
+Start Game!,开始游戏！

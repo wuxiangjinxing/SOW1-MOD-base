@@ -1,0 +1,110 @@
+ENGLISH,SPANISH
+XP Codex,Códice de EXP
+Used to instantly level up any Unit in your Army. Can only be used on a Unit with a lower level than your highest leveled Unit.,Sube inmediatamente el nivel de una unidad de tu ejército. Solo se puede usar en una unidad con un nivel inferior al de tu unidad de mayor nivel.
+CP Codex,Códice de PC
+Used to increase the Class Mastery of the current Class of any Unit in your Army by 500.,Aumenta 500 puntos la maestría de la clase actual de una unidad de tu ejército.
+Bronze Arena Token,Ficha de arena de bronce
+"""The Imperial Academy has not sanctioned these gladitorial games, but is happy to recruit its victors.""","«La Academia Imperial no ha sancionado estos juegos de gladiadores, pero estará encantada de reclutar a sus vencedores»."
+Silver Arena Token,Ficha de arena de plata
+"""The Emborian Tundra is vast and harsh, and forges much more resilient warriors.""",«La tundra de Embor es vasta y peligrosa. En ella se forjan guerreros mucho más fuertes».
+Gold Arena Token,Ficha de arena de oro
+"""In the deserts of Sayunaa lies a fortress hidden in the cliffs. A location soaked with the blood of many generations of gladiators.""",«En los desiertos de Sayunaa yace una fortaleza oculta en las montañas. Un lugar bañado con la sangre de varias generaciones de gladiadores».
+Platinum Arena Token,Ficha de arena de platino
+Proof of Merit,Prueba de valía
+Use on a Tier 3 unit with maxed CP to upgrade them to a gold version of their current class. Will no longer be able to class change.,Mejora una unidad de grado 3 con los PC al máximo a una versión de oro de su clase actual. No podrá volver a cambiar de clase.
+Iron,Hierro
+"This common resource is a staple of any army, and is used to create steel equipment. ",Este recurso común es un bien esencial para cualquier ejército y se usa para crear equipo de acero. 
+Obsidian,Obsidiana
+"An exotic, dense, super-tensile material master blacksmiths can use to greatly augment steel equipment. While weapons become slightly heavier, they become much more deadly.","Material exótico, denso y muy maleable que los maestros herreros pueden usar para mejorar el equipo de acero. Las armas de obsidiana son un poco más pesadas, pero mucho más letales."
+Sunstone,Piedra solar
+A rare and precious stone that exhibits the unique ability to focus and enhance healing and Light magics.,Piedra rara y valiosa que cuenta con la particularidad de concentrar y mejorar la magia curativa y de luz.
+Gems,Gemas
+Somewhat commonly-found gemstones that are required in most magicraft.,Gemas algo corrientes con un sinfín de usos mágicos.
+Pyrocite,Pirocita
+"The most precious resource of our time. This highly unstable ore has been useless until recently. Now, we can harness its explosive power.","El recurso más valioso de esta época. Este mineral altamente inestable era inútil hasta hace poco, cuando se descubrió su poder explosivo."
+Horses,Caballos
+Specially-bred war horses large and brave enough to enter the flames of battle.,"Caballos criados para la guerra, grandes y suficientemente valientes como para lanzarse al combate."
+Tech Points,Puntos tecnológicos
+Donari Chronicle,Crónica donari
+"Used by Squad Leaders only to simulate defeating an enemy squad of 6 equal level units,
+granting XP and CP, as well as LDR and Loyalty progress to the whole squad.","Permite a líderes de pelotón simular una victoria contra un pelotón de 6 unidades de igual nivel,
+otorgando EXP y PC, así como LDR y lealtad a todo el pelotón."
+Mint Leaves of Magic,Hojas de menta mágica
+Used to increase a Unit's MAG by a small amount.,Aumenta un poco la MAG de una unidad.
+Roast Beef of Might,Asado fuerte
+Used to increase a Unit's STR by a small amount.,Aumenta un poco la FZA de una unidad.
+Apple of Agility,Manzana ágil
+Used to increase a Unit's SKL by a small amount.,Aumenta un poco la HAB de una unidad.
+Salmon of Health,Salmón sano
+Used to increase a Unit's MaxHP by a small amount.,Aumenta un poco los PS máx. de una unidad.
+Medal of Valor,Medalla de valor
+"Increase a unit's LDR by +3 up to 50, +2 up to 60, +1 up to 70, cannot be used on a Unit with 70+ LDR.","Aumenta el LDR +3 hasta 50, +2 hasta 60 o +1 hasta 70. No se puede usar en una unidad con +70 de LDR."
+Affinity: Earth,Afinidad: tierra
+"Change a unit's Affinity to Earth. Stats will change retroactively. ++HP, -SKL","Cambia la afinidad de una unidad a tierra. Los atributos cambiarán de forma retroactiva. ++PS, -HAB"
+Affinity: Water,Afinidad: agua
+"Change a unit's Affinity to Water. Stats will change retroactively. +HP, -STR, -SKL, + MAG","Cambia la afinidad de una unidad a agua. Los atributos cambiarán de forma retroactiva. +PS, -FZA, -HAB, +MAG"
+Affinity: Lightning,Afinidad: rayo
+"Change a unit's Affinity to Lightning. Stats will change retroactively. -HP, +STR, +SKL, -Loyalty","Cambia la afinidad de una unidad a rayo. Los atributos cambiarán de forma retroactiva. +PS, +FZA, +HAB, -lealtad"
+Affinity: Fire,Afinidad: fuego
+"Change a unit's Affinity to Fire. Stats will change retroactively. +STR, -MAG, +Loyalty","Cambia la afinidad de una unidad a fuego. Los atributos cambiarán de forma retroactiva. +FZA, -MAG, +lealtad"
+Affinity: Dark,Afinidad: oscuridad
+"Change a unit's Affinity to Dark. Stats will change retroactively. ++STR, ++MAG, --LDR, --Loyalty","Cambia la afinidad de una unidad a oscuridad. Los atributos cambiarán de forma retroactiva. ++FZA, ++MAG, --LDR, --lealtad"
+Affinity: Light,Afinidad: luz
+"Change a unit's Affinity to Light. Stats will change retroactively. ++LDR, ++Loyalty","Cambia la afinidad de una unidad a luz. Los atributos cambiarán de forma retroactiva. ++LDR, ++lealtad"
+Trait: Scavenger,Rasgo: saqueo
+Teach trait to a unit.,Enseña el rasgo a una unidad.
+Trait: Garrison,Rasgo: guarnición
+Trait: Bodyguard,Rasgo: guardaespaldas
+Trait: Vengeance,Rasgo: venganza
+Trait: Overpower,Rasgo: dominación
+Trait: Imposing,Rasgo: imponente
+Trait: Unassuming,Rasgo: discreción
+Trait: Resolve,Rasgo: determinación
+Trait: Unscathed,Rasgo: indemne
+Trait: Precision,Rasgo: precisión
+Trait: Assassin's Heart,Rasgo: corazón de asesino
+Trait: Archer Captain,Rasgo: arquero líder
+Trait: Soldier Captain,Rasgo: soldado líder
+Trait: Knight Captain,Rasgo: caballero líder
+Trait: Concentration,Rasgo: concentración
+Trait: Disarm,Rasgo: desarme
+Trait: Lithe Assault,Rasgo: asalto grácil
+Trait: Assassin's Reaper,Rasgo: vampiro asesino
+Trait: Bowmanship,Rasgo: puntería
+Trait: Dragonslayer,Rasgo: matadragones
+Trait: Warrior's Hubris,Rasgo: orgullo de guerrero
+Trait: Challenger,Rasgo: contrincante
+Trait: Executioner,Rasgo: verdugo
+Trait: Healing Attuned,Rasgo: recuperación
+Trait: Cold-Blooded,Rasgo: sangre fría
+Trait: Beacon,Rasgo: alivio
+Trait: Arcane Barrier,Rasgo: barrera arcana
+Trait: Arcane Might,Rasgo: poder arcano
+Trait: Arcane Speed,Rasgo: velocidad arcana
+Trait: Arcane Vigor,Rasgo: vigor arcano
+Trait: Counterattack,Rasgo: contraataque
+Trait: Desperation,Rasgo: desesperación
+Trait: Immortal Spirit,Rasgo: espíritu inmortal
+Trait: Smite,Rasgo: castigo
+Trait: Shock and Awe,Rasgo: asombro
+Trait: Bloodlust,Rasgo: sed de sangre
+Trait: Silver-Tongued,Rasgo: elocuencia
+Trait: Treasure Hunter,Rasgo: cazatesoros
+Trait: Tundra Warrior,Rasgo: guerrero de tundra
+Trait: Desert Warrior,Rasgo: guerrero de desierto
+"""This battlefield, suspended in the clouds is reserved for all the fiercest and most celebrated warriors.""","«Este campo de batalla, suspendido en las nubes, está reservado a los guerreros más fieros y célebres»."
+Mark of the Risen,Marca del zombi
+Use on any Tier 3 Mage or Support Unit to class change them to a Necromancer.,Se usa en cualquier mago o unidad de apoyo de grado 3 para cambiar su clase a nigromante.
+Defiled Donari Tome,Tomo donari profanado
+Use on any Tier 3 Mage or Support Unit to class change them to a Dark Mage.,Se usa en cualquier mago o unidad de apoyo de grado 3 para cambiar su clase a mago oscuro.
+Trait: Benevolent,Rasgo: Benevolente
+Trait: Liberator,Rasgo: Libertador
+Trait: Rally,Rasgo: Subir la moral
+Trait: Barricade,Rasgo: Barricada
+Trait: Pacifist,Rasgo: Pacifista
+Trait: Wide Guard,Rasgo: Guardia amplia
+Trait: Raid Captain,Rasgo: Capitán de asalto
+Book of Unlife,Libro de necrovida
+Use during Squad Organize to summon a persistent Risen.,Se usa durante la organización de pelotón para invocar a un zombi persistente.
+Blank Tome,Tomo en blanco
+Copy a Learned Trait,Copiar un rasgo aprendido

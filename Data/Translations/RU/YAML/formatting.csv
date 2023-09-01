@@ -1,0 +1,108 @@
+Change to,Изменить на:
+Demote to,Понизить до:
+Promote to,Повысить до:
+(Unit perma-death is suspended),(Перманентная смерть юнитов приостановлена)
+Start a new game with these settings?,Начать игру с этими настройками?
+Reload the base?\NEWLINEData will be restored to when you last entered or saved in the base.,Вернуться к последнему сохранению на базе или входу на базу?
+Return to title?\NEWLINEAll unsaved progress will be lost.,Вернуться в главное меню?\NEWLINEНесохранённый прогресс будет потерян.
+Are you sure you want to exit the game?\NEWLINEAll unsaved progress will be lost.,Вы хотите выйти из игры?\NEWLINEНесохранённый прогресс будет потерян.
+Select a difficulty,Выберите сложность
+Enable helpful hints throughout the game. Can be toggled in Options.,Включает подсказки во время игры. Можно отключить в настройках.
+Non-story characters incapacitated at the end of a mission are \NEWLINElost forever. Their resources will be refunded.,"Если второстепенные персонажи побеждены в конце миссии,\NEWLINEони погибают навсегда. Ресурсы за них будут возвращены."
+Begin the game,Начать игру
+Deploy to the this side mission?,Отправиться на эту дополнительную миссию?
+"WARNING! After completing this chapter, the threads of time will be disrupted, and some side quests will no longer be available. \\LINEAre you sure?","ВНИМАНИЕ! После завершения этой главы ход времени будет нарушен, и некоторые дополнительные миссии станут недоступны. \\LINEВы уверены?"
+Deploy to the next Mission?,Отправиться на следующую миссию?
+Are you sure you want to exit?\NEWLINEAll unsaved progress will be lost.,"Вы уверены, что хотите выйти?\NEWLINEВесь несохранённый прогресс будет потерян."
+Restore settings to default?,Восстановить настройки по умолчанию?
+"These two will be bound together, preventing any other such bonds.\NEWLINE Are you sure?",Эти двое будут связаны любовными узами и больше ни с кем\NEWLINEне смогут вступить в такие отношения. Вы уверены?
+Are you sure you want to sell this item?,Вы точно хотите продать этот предмет?
+Item will be unequipped and sold.,Предмет будет снят и продан.
+Are you sure you want to purchase this?,Вы точно хотите совершить покупку?
+Are you sure you want to hire this mercenary?,Вы точно хотите нанять этого наёмника?
+Are you sure you want to skip the cutscene?,Вы точно хотите пропустить эту заставку?
+Are you sure you want to skip all cutscenes (until next gameplay)?,Вы точно хотите пропускать все заставки (до следующего запуска игры)?
+Are you sure you want to quicksave?\NEWLINEPrior Quicksave will be overwritten.,Выполнить быстрое сохранение?\NEWLINEПрошлое быстрое сохранение будет утеряно.
+Are you sure you want to load?\NEWLINEProgress will be reverted to last QuickSave.,"Вы уверены, что хотите загрузить игру?\NEWLINEВы начнёте с прошлого быстрого сохранения."
+Are you sure you want to restart mission?\NEWLINEMission progress will be lost.,"Вы уверены, что хотите начать миссию заново?\NEWLINEТекущий прогресс в миссии будет потерян."
+Are you sure you want to return to base?\NEWLINEALL mission progress will be lost.,"Вы уверены, что хотите вернуться на базу?\NEWLINEВесь прогресс в миссии будет потерян."
+Are you sure you want to return to the beginning of the turn?\NEWLINEAll unsaved progress will be lost.,"Вы уверены, что хотите переиграть этот ход?\NEWLINEВесь несохранённый прогресс будет потерян."
+Finish deploying and begin mission?,Закончить развёртывание войск и начать миссию?
+Retreat this squad to base?\NEWLINEThey will be unavailable until next turn.,Отступить этим отрядом на базу?\NEWLINEОтряд будет недоступен до следующего хода.
+Are you sure you want to revive?,"Вы уверены, что хотите воскресить?"
+Are you sure you want to refresh all heal charges?,"Вы уверены, что хотите обновить все заряды лечения?"
+Are you sure you want to restart mission and PERMANTENTLY reduce difficulty?\NEWLINENew difficulty:,"Вы уверены, что хотите перезапустить миссию и НАВСЕГДА уменьшить сложность?\NEWLINEНовая сложность:"
+Depart with the selected squads?\NEWLINEThe rest will find another way to survive.,Отправиться с выбранными отрядами?\NEWLINEОстальные будут искать другой способ спастись.
+Squads to join Diana's Army,Отряды присоединяются к армии Дианы
+Not all squads have moved.,Не все отряды походили в этой стадии.
+Are you sure you want to End Turn?,Вы точно хотите завершить ход?
+Form a new squad with this unit as leader?,Создать новый отряд с этим юнитом в качестве лидера?
+Are you sure you want to disband this squad?\NEWLINEAll Units will be returned to reserves.,Вы точно хотите распустить этот отряд?\NEWLINEВсе юниты будут возвращены в резерв.
+Are you sure you want to clear this squad?\NEWLINEAll Units and artifacts will be removed from squad.,Вы точно хотите очистить этот отряд?\NEWLINEЮниты и артефакты будут возвращены в резерв.
+Are you sure you want to remove this unit?\NEWLINE(Unit will be placed in reserves),Вы точно хотите убрать этот юнит из отряда?\NEWLINE(Юнит будет перемещён в резерв.)
+Are you sure you want to remove this unit?\NEWLINE(Squad will be disbanded),Вы точно хотите убрать этот юнит из отряда?\NEWLINE(Отряд будет распущен.)
+Are you sure you want to dismiss this Unit?\NEWLINEThey will be gone for good!,Вы точно хотите уволить этот юнит?\NEWLINEОн исчезнет навсегда!
+Choose a trait to replace.,Выберите черту для замены.
+Rename character to,Изменить имя персонажа на
+Use item,Использовать предмет
+WARNING! Golden classes can no longer class change.  Are you sure?,ВНИМАНИЕ! Золотые классы больше не смогут изменять класс. Вы уверены?
+"All player units take 50% less damage from all sources!\\PARGreat if you want to view the story! Still has the full game, but without the risk of defeat.","Все юниты игрока получают на 50% меньше урона от всех источников.\\PARОтличный выбор, чтобы насладиться сюжетом, не опасаясь проигрыша!"
+"Enemies are well-balanced, several key levels can be moderately challenging.\\PARGreat starting point for most players!","Враги отлично сбалансированы, несколько ключевых уровней могут быть умеренно сложными.\\PARОтличный выбор для большинства игроков!"
+Enemy HP and attack power are increased!\\PARONLY for experienced players!\\LINEChoose at your own risk!,Здоровье и сила атаки врагов увеличены!\\PARТолько для опытных игроков!\\LINEВыбирайте на свой страх и риск!
+Locked.  Unlock #n# more Tier #t# techs to unlock.\NEWLINE,"Заблокировано.  Изучите ещё #n# технологии ранга #t#, чтобы разблокировать.\NEWLINE"
+Locked.  Unlock all techs from associated branches to unlock!\NEWLINE,"Заблокировано.  Изучите все технологии из сопутствующих веток развития, чтобы разблокировать!\NEWLINE"
+"Returns to the base last deployed from, in the state you were prior to deploying.",Возвращение на вашу последнюю базу на момент перед развёртыванием войск.
+Loads the last QuickSave.,Загрузка последнего быстрого сохранения.
+"Starts the mission over.  If there was a deploy phase, return to right before deploy was completed.","Начать миссию сначала. Если в миссии была стадия развёртывания, игра загрузится перед её завершением."
+Starts the mission over and reduce the difficulty for the remainder of this playthrough.,Начать миссию сначала и уменьшить сложность до конца этого прохождения.
+Redo the turn from the start of the Player Phase.,Повторить ход с начала стадии игрока.
+Load a file.,Загрузить файл.
+Return to the title screen.,Вернуться в главное меню.
+Are you sure you want to save? \NEWLINEAny existing data will be overwritten.,Сохранить игру? \NEWLINEИмеющееся сохранение будет заменено.
+Are you sure you want to skip this chapter?,"Вы уверены, что хотите пропустить эту главу?"
+"Enemies are smarter, braver, and more ruthless. Everything is far less forgiving.\\PARThe ultimate challenge for masterful commanders!","Враги гораздо умнее, храбрее и беспощаднее.\\PARСложнейшее испытание для самых опытных полководцев!"
+Summons this new Risen unit into your reserves.,Призывает новый восставший юнит в ваши резервы.
+Summons this new Risen unit into your squad.,Призывает новый восставший юнит в ваш отряд.
+(visual only),(только изображения)
+"WARNING! This class cannot be demoted.	","ВАЖНО! Этот класс нельзя понизить.	"
+"Story characters from the previous playthrough will be available as non-story affecting ""copies"", but retain their unique class.","Сюжетные персонажи из прошлых прохождений останутся в виде «копий», не влияющих на сюжет, но при этом сохранят свой класс."
+No units or items will from the previous run will be available. Playthrough options may still be selected.,Юниты и предметы с прошлых прохождений не сохранятся. Однако варианты сюжетного выбора будут доступны.
+Start the game at chapter 4 with some additional resources and Memory Fragments granted.,Вы начнёте игру с 4 главы с дополнительными ресурсами и воспоминаниями.
+Units carried over from a previous playthrough will be reset to their initial class but have greatly increased XP and CP growth as well as a small stat boost.,"Юниты с прошлых прохождений вернутся к своему исходному классу, однако будут намного быстрее набирать ОПТ и КО, а также получат небольшой бонус к характеристикам."
+Adjust how many resources mines will grant.,Позволяет настроить количество ресурсов в шахтах.
+Adjust how much gold Surrender bounties will grant.,Позволяет настроить количество золота за принуждённых к сдаче врагов.
+Adjusts the starting stats and stat scaling of enemies in the game. Does not affect ally (green) squads.,Изменяет начальные характеристики и их соотношение для врагов. Не влияет на союзные (зелёные) отряды.
+More battle experience will be required to advance Unit levels.,Для повышения уровня юнитов потребуется больше боевого ОПТ.
+Enemy squads will be randomly equipped with artifacts.,Вражеские отряды получат случайные артефакты..
+Certain enemy squad locations will be swapped.,Случайным образом изменятся локации некоторых вражеских отрядов.
+Enemies will have an increasing ability to command Risen as the playthrough progresses.,По мере прохождения среди врагов будет всё больше восставших юнитов.
+Increases the starting morale of most enemies and makes them slightly more resistant to morale loss in combat.,Большинство врагов получат больше боевого духа в начале битвы и будут медленнее терять его в боях.
+Boss squads become more resistant to all damage types,Босс-отряды будут менее восприимчивы ко всем видам урона.
+Increases the effect of Zones of Control for ALL squads.,Повышает эффект от зон контроля ВСЕХ отрядов.
+Story characters' positive stat modifiers are reduced. Increases the charge time for Powers.,Снижает бонусы к характеристикам сюжетных персонажей. Повышает время зарядки умений.
+Each enemy leader is granted a Specalist trait that increases their power in certain situations.,"Даёт всем лидерам вражеских отрядов особую черту, повышающую их силу в определённых ситуациях."
+Increases the penalties associated with terrain and weather.,Повышает штрафы за местность и погоду.
+Enemies recieve an additional stat boost based on the number of previous playthroughs completed.,Повышает характеристики врагов в зависимости от завершённых ранее прохождений.
+Story characters will retain certain properties from the previous playthrough upon rejoining.,При новом появлении сюжетные персонажи сохранят некоторые свойства с прошлого прохождения.
+"Non-unique, non-story characters will have their stat modifiers increased based on how many playthroughs they have survived.","Повышает бонусы к характеристикам не уникальных и не относящихся к сюжету персонажей в зависимости от того, во скольких прохождениях они выживали."
+All gilded troops from the previous run will lose their gilded status when carried over into the next playthrough. Cost to be reduced accordingly.,"Все позолоченные отряды, оставшиеся с прошлого прохождения, теряют позолоченный статус. Однако и их стоимость также снижается."
+Are you sure you want to refund all merits?,"Вы уверены, что хотите сбросить все заслуги?"
+Makes this troop lose their gilded status. Cost to be reduced accordingly.,Этот отряд теряет позолоченный статус. Его стоимость также снижается.
+All powers are unlocked from the start of the game.,Открывает все умения в самом начале игры.
+Shops will restock certain items on purchase with an ever-increasing cost. Cost increase will be reset upon shop refresh.,"При покупке некоторых товаров в магазинах они будут появляться в продаже снова, но каждый раз по более высокой цене. При обновлении магазина ценник сбрасывается."
+"Arena can be played without a token, but no rewards will be granted in doing so. Arenas entered via token still grant normal rewards.","Арены будут доступны без знаков, но за них не будет и наград. При использовании знаков будут присуждаться стандартные награды."
+"Replay this mission. Missed objectives can be captured, but otherwise no additional rewards will be granted.","Эту миссию можно повторить. При этом цели миссии будут выполнены, но дополнительные награды не присуждаются."
+Non-leader Units no longer suffer a penalty to LDR growth.,Отряды без лидеров не получают штрафы к росту ЛДР.
+Adjust the overall rate of CP acquisition.,Позволяет изменить скорость получения КО.
+Cost to Revive at Donari Temple,Стоимость воскрешения в Храме Донари
+Increased Unit Capacity cost past 5 Units in a Squad,Все юниты выше 5 в отрядах стоят дороже
+No Resource Exchange in Home Bases,Отключен обмен ресурсов на главной базе
+Enemies more clever and ruthless,Враги гораздо умнее и беспощаднее
+Enemy Cavalry Squads can move after attacking,"Вражеские отряды кавалерии могут перемещаться после того, как нападут"
+In-Battle healing effect decreased,Снижена эффективность лечения в бою
+Increased Artifact Capacity cost,Повышена цена использования артефактов
+Attack power scales more slowly as stats increase,Сила атаки увеличивается медленнее с ростом характеристик
+Rate of decreased magic and healing efficacy with repeated use in the same Phase.,В течение одной стадии каждое последовательное использование магии и лечения менее эффективно.
+Gunner volleys separated by row.,Стрелки атакуют разные колонны врагов.
+Adjust shop prices.,Скорректировать цены в магазине.
+Thank you for purchasing the Legends DLC! The New Game+ options on this page require a Clear Save to carry over your previous army. Clear Chapter 30 in the main quest and create a Clear Save after the ending credits to enable!,Благодарим вас за покупку дополнения Легенды! Настройка "Новая игра +", позволяет вам перенести вашу предыдущую армию. Для этого завершите 30 главу основного сюжета и после финальных титров создайте новое сохранение!

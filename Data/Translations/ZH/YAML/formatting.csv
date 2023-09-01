@@ -1,0 +1,107 @@
+Change to,改变为
+Demote to,降阶至
+Promote to,晋阶至
+(Unit perma-death is suspended),（已暂停单位永久死亡）
+Start a new game with these settings?,确定使用这些设置开始游戏吗？
+Reload the base?\NEWLINEData will be restored to when you last entered or saved in the base.,重新加载本营？\NEWLINE数据将恢复到最后一次进入营地或在营地保存的时候。
+Return to title?\NEWLINEAll unsaved progress will be lost.,返回开始屏幕吗？\NEWLINE所有未保存的进度都会丢失。
+Are you sure you want to exit the game?\NEWLINEAll unsaved progress will be lost.,确定要退出游戏吗？\NEWLINE所有未保存的进度都会丢失。
+Select a difficulty,选择难度
+Enable helpful hints throughout the game. Can be toggled in Options.,游戏过程中显示有用的提示。可以在设置更改。
+Non-story characters incapacitated at the end of a mission are \NEWLINElost forever. Their resources will be refunded.,战败的非故事人物在任务结束后会永远丢失。\NEWLINE他们的资源将被退还。
+Begin the game,开始游戏
+Deploy to the this side mission?,开始支线任务？
+"WARNING! After completing this chapter, the threads of time will be disrupted, and some side quests will no longer be available. \\LINEAre you sure?",警告！完成这一章后，时间线将会受到影响，一些支线任务不再可玩。\\LINE确定吗？
+Deploy to the next Mission?,开始下个任务？
+Are you sure you want to exit?\NEWLINEAll unsaved progress will be lost.,确定要退出吗？\NEWLINE所有未保存的进度都会丢失。
+Restore settings to default?,恢复预设设置？
+"These two will be bound together, preventing any other such bonds.\NEWLINE Are you sure?",这两个角色将会在一起，无法与其他人建立相同关系。\NEWLINE确定吗？
+Are you sure you want to sell this item?,确定要售卖这个道具吗？
+Item will be unequipped and sold.,道具将会被卸下并卖掉。
+Are you sure you want to purchase this?,确定要购买吗？
+Are you sure you want to hire this mercenary?,确定要雇用该雇佣兵吗？
+Are you sure you want to skip the cutscene?,确定要跳过过场动画吗？
+Are you sure you want to skip all cutscenes (until next gameplay)?,确定要跳过下一局游戏前的全部过场动画吗？
+Are you sure you want to quicksave?\NEWLINEPrior Quicksave will be overwritten.,确定要快速保存吗？\NEWLINE之前的快速存档将会被覆盖。
+Are you sure you want to load?\NEWLINEProgress will be reverted to last QuickSave.,确定要加载吗？\NEWLINE进度将会返回到上一次快速保存的时候。
+Are you sure you want to restart mission?\NEWLINEMission progress will be lost.,确定要重新开始任务吗？\NEWLINE任务进度将会丢失。
+Are you sure you want to return to base?\NEWLINEALL mission progress will be lost.,确定要返回本营吗？\NEWLINE所有任务进度都会丢失。
+Are you sure you want to return to the beginning of the turn?\NEWLINEAll unsaved progress will be lost.,确定要重玩本回合吗？\NEWLINE所有未保存的进度都会丢失。
+Finish deploying and begin mission?,完成部署并开始任务？
+Retreat this squad to base?\NEWLINEThey will be unavailable until next turn.,将单位撤回本营？\NEWLINE单位在本回合将不可用。
+Are you sure you want to revive?,确定要复活吗？
+Are you sure you want to refresh all heal charges?,确定要刷新所有的治疗次数吗？
+Are you sure you want to restart mission and PERMANTENTLY reduce difficulty?\NEWLINENew difficulty:,确定要重新开始任务并永久降低难度吗？\NEWLINE新难度：
+Depart with the selected squads?\NEWLINEThe rest will find another way to survive.,与选定的小队一起出发？\NEWLINE其他人将寻找别的生存方式。
+Squads to join Diana's Army,将会加入戴安娜军的小队
+Not all squads have moved.,还有未行动的小队。
+Are you sure you want to End Turn?,确定要结束回合吗？
+Form a new squad with this unit as leader?,任命当前单位为队长并组建新的小队？
+Are you sure you want to disband this squad?\NEWLINEAll Units will be returned to reserves.,确定要解散这个小队吗？\NEWLINE所有单位都将返回预备队。
+Are you sure you want to clear this squad?\NEWLINEAll Units and artifacts will be removed from squad.,确定要清空这个小队吗？\NEWLINE所有单位和神器都将被移出小队。
+Are you sure you want to remove this unit?\NEWLINE(Unit will be placed in reserves),确定要移除这个单位吗？\NEWLINE（单位将返回预备队）
+Are you sure you want to remove this unit?\NEWLINE(Squad will be disbanded),确定要移除这个单位吗？\NEWLINE（队伍将解散）
+Are you sure you want to dismiss this Unit?\NEWLINEThey will be gone for good!,确定要解雇这个单位吗？\NEWLINE单位将永远地离开！
+Choose a trait to replace.,选择要替换的特性。
+Rename character to,角色重命名为
+Use item,使用道具
+WARNING! Golden classes can no longer class change.  Are you sure?,警告！黄金职业无法再切换职业。确定吗？
+"All player units take 50% less damage from all sources!\\PARGreat if you want to view the story! Still has the full game, but without the risk of defeat.",所有玩家单位少受到50%的全部来源伤害！\\PAR适合剧情党！完整的游戏体验，没有被击败的风险。
+"Enemies are well-balanced, several key levels can be moderately challenging.\\PARGreat starting point for most players!",敌人实力均衡，少数重要关卡略有挑战性。\\PAR适合大多数玩家！
+Enemy HP and attack power are increased!\\PARONLY for experienced players!\\LINEChoose at your own risk!,敌人的生命值和攻击力提升！\\PAR仅适合有经验的玩家！\\LINE风险自负！
+Locked.  Unlock #n# more Tier #t# techs to unlock.\NEWLINE,已锁定。 需要先解锁#n#更多#t#职阶科技。\NEWLINE
+Locked.  Unlock all techs from associated branches to unlock!\NEWLINE,已锁定。 需要先解锁相关分支的所有科技！\NEWLINE
+"Returns to the base last deployed from, in the state you were prior to deploying.",返回营地，状态将会还原至出征之前。
+Loads the last QuickSave.,加载最新的快速存档。
+"Starts the mission over.  If there was a deploy phase, return to right before deploy was completed.",从头开始任务。 如果有部署阶段，返回到部署刚完成之前。
+Starts the mission over and reduce the difficulty for the remainder of this playthrough.,重新开始任务，并降低接下来的游戏难度。
+Redo the turn from the start of the Player Phase.,重置玩家回合。
+Load a file.,加载文件。
+Return to the title screen.,返回开始屏幕。
+Are you sure you want to save? \NEWLINEAny existing data will be overwritten.,确定要保存吗？  \NEWLINE现有的数据将会被覆盖。        
+Are you sure you want to skip this chapter?,确定要跳过此章节吗？
+"Enemies are smarter, braver, and more ruthless. Everything is far less forgiving.\\PARThe ultimate challenge for masterful commanders!",敌人会更加聪明、勇敢、冷酷无情。所有方面的容错率都会显著降低。\\PAR为捻熟军事的指挥官们定制的终极挑战！
+Summons this new Risen unit into your reserves.,将这个新的复苏单位召唤至你的预备队中。
+(visual only),(仅改变视觉效果)
+WARNING! This class cannot be demoted.,警告！该职业无法降阶。
+"Story characters from the previous playthrough will be available as non-story affecting ""copies"", but retain their unique class.",上次通关继承来的故事角色会以不影响剧情的“复制品”的形式为玩家所用，不过他们独有的职业会得到保留。
+No units or items will from the previous run will be available. Playthrough options may still be selected.,上次通关所获得的所有单位和物品都不会被保留。依旧可以选择多周目独有选项。
+Start the game at chapter 4 with some additional resources and Memory Fragments granted.,从第四章开始游戏，会附赠资源与记忆碎片。
+Units carried over from a previous playthrough will be reset to their initial class but have greatly increased XP and CP growth as well as a small stat boost.,上次通关继承来的单位的职业会被重置为其初始职业，但经验与职业经验的成长率大幅提高，其数值也会小幅增张。
+Adjust how many resources mines will grant.,调整从矿井中可以获得的资源数量。
+Adjust how much gold Surrender bounties will grant.,调整从迫降奖励中获得的金币数量。
+Adjusts the starting stats and stat scaling of enemies in the game. Does not affect ally (green) squads.,调整游戏中敌军的初始数值以及数值成长。不影响友军（绿色）小队。
+More battle experience will be required to advance Unit levels.,提升单位等级会需要更多的战斗经验。
+Enemy squads will be randomly equipped with artifacts.,敌方小队会随机装备神器。
+Certain enemy squad locations will be swapped.,部分敌方小队的位置会发生交换。
+Enemies will have an increasing ability to command Risen as the playthrough progresses.,通关过程中，敌方指挥复苏单位的能力会越来越强。
+Increases the starting morale of most enemies and makes them slightly more resistant to morale loss in combat.,增加绝大多数敌人的初始士气，并略微减少战斗给他们带来的士气损失。
+Boss squads become more resistant to all damage types,提升首领小队对所有伤害种类的抗性。
+Increases the effect of Zones of Control for ALL squads.,增加所有小队的控制区域效果。
+Story characters' positive stat modifiers are reduced. Increases the charge time for Powers.,故事角色的正向数值修饰器的效果被削减。延长圣灵之力的充能时间。
+Each enemy leader is granted a Specalist trait that increases their power in certain situations.,所有敌方队长都被赋予一个能在特定情况下增强他们能力的专家特性。
+Increases the penalties associated with terrain and weather.,增加地形和天气惩罚。
+Enemies recieve an additional stat boost based on the number of previous playthroughs completed.,基于通关次数给予敌方额外的数值提升。
+Story characters will retain certain properties from the previous playthrough upon rejoining.,故事角色在入队时会保留从先前周目中获得的部分特性。
+"Non-unique, non-story characters will have their stat modifiers increased based on how many playthroughs they have survived.",非特殊且非故事角色的数值修饰器效果会基于其存活周目数得到加强。
+All gilded troops from the previous run will lose their gilded status when carried over into the next playthrough. Cost to be reduced accordingly.,上一周目所有升至黄金职业的部队都会丧失其黄金职业状态。花费也会相应减少。
+Are you sure you want to refund all merits?,确定要回退所有华彩之证吗？
+Makes this troop lose their gilded status. Cost to be reduced accordingly.,使该部队失去其黄金职业状态。花费也会相应减少。
+All powers are unlocked from the start of the game.,游戏开始时解锁所有圣灵之力。
+Shops will restock certain items on purchase with an ever-increasing cost. Cost increase will be reset upon shop refresh.,部分商品在被购买后会立即补货，价格持续升高。商店刷新后提升的价格也会随之重置。
+"Arena can be played without a token, but no rewards will be granted in doing so. Arenas entered via token still grant normal rewards.",不使用代币也能参与竞技场玩法，但不会获得奖励。使用代币参与竞技场则照常发放奖励。
+"Replay this mission. Missed objectives can be captured, but otherwise no additional rewards will be granted.",重玩该任务。先前错过的目标可以被占领，但此外不会获得其他额外奖励。
+Non-leader Units no longer suffer a penalty to LDR growth.,非队长单位不再遭受统帅值成长惩罚。
+Adjust the overall rate of CP acquisition.,调整总体职业经验获取率。
+Cost to Revive at Donari Temple,在多纳尔教圣殿复活的费用
+Increased Unit Capacity cost past 5 Units in a Squad,小队超过五个单位后单位占用规模增加量
+No Resource Exchange in Home Bases,在大本营中无法进行资源交换
+Enemies more clever and ruthless,更加聪明与冷酷的敌人
+Enemy Cavalry Squads can move after attacking,敌方骑兵小队可以进行攻击后移动
+In-Battle healing effect decreased,削减战斗中治疗效果
+Increased Artifact Capacity cost,增加神器占用规模。
+Attack power scales more slowly as stats increase,削减攻击力随数值增长的速度。
+Rate of decreased magic and healing efficacy with repeated use in the same Phase.,在同一回合内重复使用魔法与治疗的效力衰减率。
+Gunner volleys separated by row.,不同排的火枪兵分别齐射。
+Adjust shop prices.,调整商店价格
+Thank you for purchasing the Legends DLC! The New Game+ options on this page require a Clear Save to carry over your previous army. Clear Chapter 30 in the main quest and create a Clear Save after the ending credits to enable!,感谢您购买《传奇》DLC！此页面的新游戏+选项需要一份通关存档以继承您上一周目的军队。请先再通关一次主线第30章，并于制作人员名单结束后创建一份通关存档以解锁选项！

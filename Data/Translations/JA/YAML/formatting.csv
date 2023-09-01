@@ -1,0 +1,108 @@
+Change to,変更
+Demote to,降格
+Promote to,昇格
+(Unit perma-death is suspended),（ユニットの永久死亡機能は停止しています）
+Start a new game with these settings?,この設定でゲームを開始してもよろしいですか？
+Reload the base?\NEWLINEData will be restored to when you last entered or saved in the base.,基地まで再ロードしますか？\NEWLINEこれを行うと、基地に最後に入った、またはセーブした時点のデータに復元されます。
+Return to title?\NEWLINEAll unsaved progress will be lost.,タイトル画面に戻りますか？\NEWLINEすべてのセーブしていない内容は失われます。
+Are you sure you want to exit the game?\NEWLINEAll unsaved progress will be lost.,本当にゲームを終了してもよろしいですか？\NEWLINEすべてのセーブしていない内容は失われます。
+Select a difficulty,難易度を選択してください
+Enable helpful hints throughout the game. Can be toggled in Options.,ゲームプレイ中にヒントを見られるようにします。オプションで設定を切り替えられます。
+Non-story characters incapacitated at the end of a mission are \NEWLINElost forever. Their resources will be refunded.,ミッション終了時、戦闘不能になった非重要キャラクターは、\NEWLINE永久に使用できなくなります。そうなったキャラクターに費やした資源は返却されます。
+Begin the game,ゲーム開始
+Deploy to the this side mission?,このサイドミッションに進みますか？
+"WARNING! After completing this chapter, the threads of time will be disrupted, and some side quests will no longer be available. \\LINEAre you sure?",警告！この章をクリアすると時間が進み、一部のサイドクエストがプレイできなくなります。\\LINE本当によろしいですか？
+Deploy to the next Mission?,次のミッションに進みますか？
+Are you sure you want to exit?\NEWLINEAll unsaved progress will be lost.,本当にゲームを終了してもよろしいですか？\NEWLINEセーブしていない内容は失われます。
+Restore settings to default?,設定をデフォルトに戻しますか？
+"These two will be bound together, preventing any other such bonds.\NEWLINE Are you sure?",この会話に進むと、2人は特別な絆で結ばれ、他の絆の形成が妨げられます。\NEWLINE本当によろしいですか？
+Are you sure you want to sell this item?,このアイテムを売却してもよろしいですか？
+Item will be unequipped and sold.,アイテムは装備から外され、売却されます。
+Are you sure you want to purchase this?,これを購入してもよろしいですか？
+Are you sure you want to hire this mercenary?,この兵士を雇ってもよろしいですか？
+Are you sure you want to skip the cutscene?,この会話をスキップしてもよろしいですか？
+Are you sure you want to skip all cutscenes (until next gameplay)?,すべての会話をスキップしてもよろしいですか？（次のシーンまで移動）
+Are you sure you want to quicksave?\NEWLINEPrior Quicksave will be overwritten.,クイックセーブをしてもよろしいですか？\NEWLINEこれを行うと、以前のクイックセーブは上書きされます。
+Are you sure you want to load?\NEWLINEProgress will be reverted to last QuickSave.,ロードしてもよろしいですか？\NEWLINEこれを行うと、前回のクイックセーブまで進行を巻き戻します。
+Are you sure you want to restart mission?\NEWLINEMission progress will be lost.,ミッションをやり直してもよろしいですか？\NEWLINEこれを行うと、このミッションでの進行は失われます。
+Are you sure you want to return to base?\NEWLINEALL mission progress will be lost.,基地に戻ってもよろしいですか？\NEWLINEこれを行うと、このミッションでの進行は失われます。
+Are you sure you want to return to the beginning of the turn?\NEWLINEAll unsaved progress will be lost.,ターンの最初に戻ってもよろしいですか？\NEWLINEこれを行うと、すべてのセーブされていない進行は失われます。
+Finish deploying and begin mission?,部隊の配置を完了し、ミッションを開始しますか？
+Retreat this squad to base?\NEWLINEThey will be unavailable until next turn.,この部隊を拠点に戻しますか？\NEWLINEこれを行うと、次のターンまで行動不能になります。
+Are you sure you want to revive?,復活させてもよろしいですか？
+Are you sure you want to refresh all heal charges?,回復回数をリフレッシュしてもよろしいですか？
+Are you sure you want to restart mission and PERMANTENTLY reduce difficulty?\NEWLINENew difficulty:,難易度を下げてからミッションをやり直します。よろしいですか？\NEWLINE新しい難易度:
+Depart with the selected squads?\NEWLINEThe rest will find another way to survive.,選択した部隊で出発してもよろしいですか？\NEWLINE残りの者たちは、他に生きる道を探すことになります。
+Squads to join Diana's Army,ダイアナの軍に加わる部隊
+Not all squads have moved.,まだ行動していない部隊があります。
+Are you sure you want to End Turn?,本当にターンを終了してもよろしいですか？
+Form a new squad with this unit as leader?,このユニットをリーダーにして新しい部隊を結成しますか？
+Are you sure you want to disband this squad?\NEWLINEAll Units will be returned to reserves.,この部隊を解散してもよろしいですか？\NEWLINEこれを行うと、すべてのユニットは予備軍に戻されます。
+Are you sure you want to clear this squad?\NEWLINEAll Units and artifacts will be removed from squad.,この部隊を空にしてもよろしいですか？\NEWLINEこれを行うと、リーダー以外のすべてのユニットと装備が部隊から外されます。
+Are you sure you want to remove this unit?\NEWLINE(Unit will be placed in reserves),このユニットを外してもよろしいですか？\NEWLINE（ユニットは予備軍に戻ります）
+Are you sure you want to remove this unit?\NEWLINE(Squad will be disbanded),このユニットを外してもよろしいですか？\NEWLINE（部隊は解散します）
+Are you sure you want to dismiss this Unit?\NEWLINEThey will be gone for good!,このユニットを解雇してもよろしいですか？\NEWLINEこれを行うと、このユニットは完全に消去されます！
+Choose a trait to replace.,置き換える特性を選択してください。
+Rename character to,キャラクターの名前変更
+Use item,アイテム使用
+WARNING! Golden classes can no longer class change.  Are you sure?,警告！ゴールドクラスになると、クラスチェンジが不可能になります。 本当によろしいですか？
+"All player units take 50% less damage from all sources!\\PARGreat if you want to view the story! Still has the full game, but without the risk of defeat.",すべてのプレーヤーユニットの被ダメージが50％減少します！\\PARストーリーだけを楽しみたい人にオススメです！完全なシナリオをプレイできますが、敗北のリスクはほぼありません。
+"Enemies are well-balanced, several key levels can be moderately challenging.\\PARGreat starting point for most players!",敵の強さは程よいバランスに仕上がっており、いくつかの章は難しいものとなっています。\\PARほとんどのプレーヤーにオススメです！
+Enemy HP and attack power are increased!\\PARONLY for experienced players!\\LINEChoose at your own risk!,敵のHPと攻撃力が高めに設定されます！\\PAR経験豊富なプレーヤーにのみオススメします！\\LINE高い難易度に伴うリスクをご理解の上、選択してください！
+Locked.  Unlock #n# more Tier #t# techs to unlock.\NEWLINE,ロック状態。 さらに#n#ティアおよび#t#技術を解放すると、アンロックできる。\NEWLINE
+Locked.  Unlock all techs from associated branches to unlock!\NEWLINE,ロック状態。 関連するツリーからすべての技術をアンロックすると、これをアンロックできる。\NEWLINE
+"Returns to the base last deployed from, in the state you were prior to deploying.",出撃前の状態で、最後に出撃した基地に戻ります。
+Loads the last QuickSave.,前回のクイックセーブをロードします。
+"Starts the mission over.  If there was a deploy phase, return to right before deploy was completed.",ミッションを最初からやり直します。 配置フェイズがあった場合は、配置が完了する直前の状態に戻ります。
+Starts the mission over and reduce the difficulty for the remainder of this playthrough.,ミッションを最初からやり直し、このプレイにおける残りの章の難易度を下げます。
+Redo the turn from the start of the Player Phase.,プレーヤーフェイズ開始時からターンをやり直します。
+Load a file.,ファイルをロードします。
+Return to the title screen.,タイトル画面に戻ります。
+Are you sure you want to save? \NEWLINEAny existing data will be overwritten.,本当にセーブしてもよろしいですか？  \NEWLINE既存のセーブデータは上書きされます。         
+Are you sure you want to skip this chapter?,この章をスキップしてもよろしいですか？
+"Enemies are smarter, braver, and more ruthless. Everything is far less forgiving.\\PARThe ultimate challenge for masterful commanders!",敵軍の戦略がより巧妙で、大胆で、激しくなります。このゲームにおける最高難易度です。\\PAR極限のチャレンジを望むプレーヤーのみ推奨！
+Summons this new Risen unit into your reserves.,この新しいアンデッドユニットを予備軍に召喚します。
+Summons this new Risen unit into your squad.,この新しいアンデッドユニットを部隊に召喚します。
+(visual only),(ビジュアルのみ)
+"WARNING! This class cannot be demoted.	",警告！　このクラスは降格できません。
+"Story characters from the previous playthrough will be available as non-story affecting ""copies"", but retain their unique class.",前の周回のストーリーキャラクターは、ストーリーに影響を与えない「コピー」として使用可能になりますが、独自のクラスは保持されます。
+No units or items will from the previous run will be available. Playthrough options may still be selected.,前の周回のユニットやアイテムは使用できません。プレイのオプションは引き続き選択できます。
+Start the game at chapter 4 with some additional resources and Memory Fragments granted.,追加の資源と記憶のかけらを付与して、第4章からゲームを開始します。
+Units carried over from a previous playthrough will be reset to their initial class but have greatly increased XP and CP growth as well as a small stat boost.,前の周回から引き継がれたユニットは、初期クラスにリセットされますが、XPとCPの成長率が大幅に増加し、ステータスもわずかに上昇します。
+Adjust how many resources mines will grant.,鉱山から得られる資源の数を調整します。
+Adjust how much gold Surrender bounties will grant.,降伏によって得られるゴールドの量を調整します。
+Adjusts the starting stats and stat scaling of enemies in the game. Does not affect ally (green) squads.,ゲーム内の敵部隊の開始ステータスとステータスのスケーリングを調整します。友軍の部隊 (緑) には影響しません。
+More battle experience will be required to advance Unit levels.,ユニットのレベルを上げるのに、より多くの戦闘が必要になります。
+Enemy squads will be randomly equipped with artifacts.,敵の部隊に、ランダムに装備が与えられます。
+Certain enemy squad locations will be swapped.,特定の敵部隊の位置が入れ替わります。
+Enemies will have an increasing ability to command Risen as the playthrough progresses.,プレイが進むにつれ、敵のアンデッドを指揮する能力が増加します。
+Increases the starting morale of most enemies and makes them slightly more resistant to morale loss in combat.,ほとんどの敵の初期士気を増加させ、戦闘による士気低下に対する耐性をわずかに高めます。
+Boss squads become more resistant to all damage types,ボス部隊の、あらゆるダメージに対する耐性が上がります。
+Increases the effect of Zones of Control for ALL squads.,すべての部隊の支配領域の効果を増加します。
+Story characters' positive stat modifiers are reduced. Increases the charge time for Powers.,ストーリーキャラクターの、プラスのステータス修正値が減少します。さらに、ネフィリムの力のチャージ時間が長くなります。
+Each enemy leader is granted a Specalist trait that increases their power in certain situations.,各敵リーダーに、特定の状況で能力が上がるスペシャリストの特性が与えられます。
+Increases the penalties associated with terrain and weather.,地形と天候に関連するペナルティが増加します。
+Enemies recieve an additional stat boost based on the number of previous playthroughs completed.,敵は、過去のクリア周回数に基づいて、追加のステータスブーストを得ます。
+Story characters will retain certain properties from the previous playthrough upon rejoining.,ストーリーキャラクターは、再加入時に前の周回の特定のプロパティを保持します。
+"Non-unique, non-story characters will have their stat modifiers increased based on how many playthroughs they have survived.",非固有、非ストーリーキャラクターは、生き残ったプレイ周回の回数に基づいて、ステータス修正値が増加します。
+All gilded troops from the previous run will lose their gilded status when carried over into the next playthrough. Cost to be reduced accordingly.,前の周回でゴールドクラスになったユニットはすべて、次の周回に引き継がれるとゴールドクラスのステータスを失います。それに応じて、コストも削減されます。
+Are you sure you want to refund all merits?,すべての特典を返還してもよろしいですか？
+Makes this troop lose their gilded status. Cost to be reduced accordingly.,このユニットはゴールドステータスを失います。それに応じて、コストも削減されます。
+All powers are unlocked from the start of the game.,ゲーム開始時からすべてのネフィリムの力がアンロックされます。
+Shops will restock certain items on purchase with an ever-increasing cost. Cost increase will be reset upon shop refresh.,ショップは購入時に特定のアイテムを補充しますが、値段は上がり続けます。増加した値段は、ショップの更新時にリセットされます。
+"Arena can be played without a token, but no rewards will be granted in doing so. Arenas entered via token still grant normal rewards.",闘技場はトークンなしでもプレイできますが、その場合は報酬が得られません。トークンを払って闘技場プレイすると、通常の報酬が与えられます。
+"Replay this mission. Missed objectives can be captured, but otherwise no additional rewards will be granted.",このミッションを再度プレイします。未達成の目標は達成できますが、それ以外の追加報酬は得られません。
+Non-leader Units no longer suffer a penalty to LDR growth.,非リーダーユニットは、LDRの成長に対するペナルティを受けなくなります。
+Adjust the overall rate of CP acquisition.,全体的なCP獲得率を調整します。
+Cost to Revive at Donari Temple,ドナー神殿で復活にかかる費用
+Increased Unit Capacity cost past 5 Units in a Squad,部隊内のユニットが5人を超えると、ユニットキャパシティコストが増加
+No Resource Exchange in Home Bases,基地でのリソース交換なし
+Enemies more clever and ruthless,敵がより賢くなり、容赦ない攻撃を仕掛けてくる
+Enemy Cavalry Squads can move after attacking,敵の騎兵部隊は、攻撃後に移動可能
+In-Battle healing effect decreased,戦闘中の回復効果が減少
+Increased Artifact Capacity cost,装備キャパシティコスト増加
+Attack power scales more slowly as stats increase,ステータスが増加するにつれて、威力の伸びが鈍化
+Rate of decreased magic and healing efficacy with repeated use in the same Phase.,同一ターンでの繰り返し使用による、魔法およびヒーリング効果の減少率。
+Gunner volleys separated by row.,ガンナーの列ごとの一斉射撃。
+Adjust shop prices.,ショップ価格を調整。
+Thank you for purchasing the Legends DLC! The New Game+ options on this page require a Clear Save to carry over your previous army. Clear Chapter 30 in the main quest and create a Clear Save after the ending credits to enable!,Legends DLCをご購入いただきありがとうございます！　このページのニューゲーム+オプションでは、以前に使用した部隊を引き継ぐには、クリアしたセーブデータが必要になります。メインシナリオの30章をクリアし、エンディングクレジット後にクリアセーブデータを作成すると有効になります！

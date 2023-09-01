@@ -1,0 +1,108 @@
+Change to,다음으로 변경 - 
+Demote to,다음으로 강등 - 
+Promote to,다음으로 승급 - 
+(Unit perma-death is suspended),(유닛 영구 사망이 유예됩니다)
+Start a new game with these settings?,이 설정으로 새 게임을 시작할까요?
+Reload the base?\NEWLINEData will be restored to when you last entered or saved in the base.,기지를 다시 불러오시겠습니까?\NEWLINE기지로 마지막으로 복귀 또는 저장한 시점으로 데이터가 복구됩니다.
+Return to title?\NEWLINEAll unsaved progress will be lost.,타이틀 화면으로 돌아가시겠습니까?\NEWLINE저장하지 않은 진행 상황이 사라집니다.
+Are you sure you want to exit the game?\NEWLINEAll unsaved progress will be lost.,정말 게임을 종료하시겠습니까?\NEWLINE저장하지 않은 진행 상황은 사라집니다.
+Select a difficulty,난이도 선택
+Enable helpful hints throughout the game. Can be toggled in Options.,게임 내내 도움이 되는 힌트 활성화. 옵션 메뉴에서 켜고 끌 수 있습니다.
+Non-story characters incapacitated at the end of a mission are \NEWLINElost forever. Their resources will be refunded.,"주,조연 등장인물이 아닌 캐릭터가 전투불능이 된 채로 미션 종료 시\NEWLINE영구적으로 사라집니다. 해당 유닛의 자원은 반환됩니다."
+Begin the game,게임 시작
+Deploy to the this side mission?,이 사이드 미션에 출격할까요?
+"WARNING! After completing this chapter, the threads of time will be disrupted, and some side quests will no longer be available. \\LINEAre you sure?","경고! 이 장을 완료한 후에는 시간선이 엉키게 되어, 일부 사이드 퀘스트는 더 이상 진행할 수 없습니다. \\LINE정말 진행하시겠습니까?"
+Deploy to the next Mission?,다음 미션에 출격할까요?
+Are you sure you want to exit?\NEWLINEAll unsaved progress will be lost.,정말 종료하시겠습니까?\NEWLINE저장하지 않은 진행 상황은 사라집니다.
+Restore settings to default?,모든 설정을 기본 설정으로 되돌릴까요?
+"These two will be bound together, preventing any other such bonds.\NEWLINE Are you sure?","이 둘을 결속하여, 추후 이와 같은 다른 결속을 막습니다.\NEWLINE 정말 진행하시겠습니까?"
+Are you sure you want to sell this item?,정말 이 아이템을 판매하시겠습니까?
+Item will be unequipped and sold.,아이템 장착이 해제되어 판매됩니다.
+Are you sure you want to purchase this?,정말 이 아이템을 구매하시겠습니까?
+Are you sure you want to hire this mercenary?,정말 이 용병을 고용하시겠습니까?
+Are you sure you want to skip the cutscene?,정말 이 컷씬을 건너뛰시겠습니까?
+Are you sure you want to skip all cutscenes (until next gameplay)?,정말 모든 컷씬을 (다음 게임플레이까지) 건너뛰시겠습니까?
+Are you sure you want to quicksave?\NEWLINEPrior Quicksave will be overwritten.,정말 빠른 저장을 하시겠습니까?\NEWLINE이전 빠른 저장을 덮어씁니다.
+Are you sure you want to load?\NEWLINEProgress will be reverted to last QuickSave.,정말 불러오시겠습니까?\NEWLINE마지막 빠른 저장 시점으로 게임 진행이 돌아갑니다.
+Are you sure you want to restart mission?\NEWLINEMission progress will be lost.,정말 미션을 다시 시작하시겠습니까?\NEWLINE지금까지의 미션 진행 사항이 사라집니다.
+Are you sure you want to return to base?\NEWLINEALL mission progress will be lost.,정말 기지로 돌아가시겠습니까?\NEWLINE모든 미션 진행 사항이 사라집니다.
+Are you sure you want to return to the beginning of the turn?\NEWLINEAll unsaved progress will be lost.,정말 턴 시작으로 되돌아 가시겠습니까?\NEWLINE저장하지 않은 모든 진행 사항이 사라집니다.
+Finish deploying and begin mission?,배치를 마치고 미션을 시작할까요?
+Retreat this squad to base?\NEWLINEThey will be unavailable until next turn.,이 부대를 기지로 후퇴시킬까요?\NEWLINE다음 턴까지 이 부대를 사용할 수 없습니다.
+Are you sure you want to revive?,정말 부활하시겠습니까?
+Are you sure you want to refresh all heal charges?,정말 모든 치유 횟수를 재충전 하시겠습니까?
+Are you sure you want to restart mission and PERMANTENTLY reduce difficulty?\NEWLINENew difficulty:,정말 미션을 재시작하고 영구적으로 난이도를 낮추시겠습니까?\NEWLINE새로운 난이도:
+Depart with the selected squads?\NEWLINEThe rest will find another way to survive.,선택한 부대와 함께 떠나시겠습니까?\NEWLINE나머지 인원은 다른 살아남을 방법을 찾을 것입니다.
+Squads to join Diana's Army,다이애나의 군대에 합류할 부대들
+Not all squads have moved.,모든 부대가 이동하지 않았습니다.
+Are you sure you want to End Turn?,정말 턴을 끝내시겠습니까?
+Form a new squad with this unit as leader?,이 유닛을 부대장으로 새 부대를 형성하시겠습니까?
+Are you sure you want to disband this squad?\NEWLINEAll Units will be returned to reserves.,정말 이 부대를 해체하시겠습니까?\NEWLINE모든 유닛들은 예비대로 배치됩니다.
+Are you sure you want to clear this squad?\NEWLINEAll Units and artifacts will be removed from squad.,정말 이 부대를 초기화 하시겠습니까?\NEWLINE모든 유닛과 유물이 이 부대에서 제거됩니다.
+Are you sure you want to remove this unit?\NEWLINE(Unit will be placed in reserves),정말 이 유닛을 제거하시겠습니까?\NEWLINE(유닛은 예비대로 배치됩니다)
+Are you sure you want to remove this unit?\NEWLINE(Squad will be disbanded),정말 이 유닛을 제거하시겠습니까?\NEWLINE(부대가 해체됩니다)
+Are you sure you want to dismiss this Unit?\NEWLINEThey will be gone for good!,정말 이 유닛을 전역시키겠습니까?\NEWLINE완전히 사라지게 됩니다!
+Choose a trait to replace.,대체할 특성을 선택하세요.
+Rename character to,유닛 이름 다시 짓기
+Use item,아이템 사용
+WARNING! Golden classes can no longer class change.  Are you sure?,경고! 정예 병과는 더 이상 병과를 변경할 수 없습니다.  정말 적용하시겠습니까?
+"All player units take 50% less damage from all sources!\\PARGreat if you want to view the story! Still has the full game, but without the risk of defeat.","모든 플레이어 유닛이 모든 종류의 피해로부터 50% 적은 피해를 입습니다!\\PAR스토리를 보기에 편합니다! 여전히 게임을 완전히 즐길 수 있으며, 패배할 위험이 적어집니다."
+"Enemies are well-balanced, several key levels can be moderately challenging.\\PARGreat starting point for most players!","적들은 균형이 잘 잡혀 있으며, 여러 핵심 레벨은 적당히 도전적입니다.\\PAR대부분의 플레이어에게 좋은 출발점입니다!"
+Enemy HP and attack power are increased!\\PARONLY for experienced players!\\LINEChoose at your own risk!,적 체력과 공격력이 증가합니다!\\PAR노련한 플레이어에게만 추천합니다!\\LINE각오하고 도전하세요!
+Locked.  Unlock #n# more Tier #t# techs to unlock.\NEWLINE,잠김.  더 많은 티어 #n# 잠금 해제 #t# 기술 잠금 해제.\NEWLINE
+Locked.  Unlock all techs from associated branches to unlock!\NEWLINE,잠김.  연결된 가지의 모든 기술을 잠금해제하여 잠금 해제하세요!\NEWLINE
+"Returns to the base last deployed from, in the state you were prior to deploying.",배치하기 전 상태의 마지막으로 들렀던 기지로 돌아갑니다.
+Loads the last QuickSave.,마지막 빠른 저장을 불러옵니다.
+"Starts the mission over.  If there was a deploy phase, return to right before deploy was completed.","미션을 다시 시작합니다.  배치 단계가 있을 경우, 배치가 완료되기 직전으로 돌아갑니다."
+Starts the mission over and reduce the difficulty for the remainder of this playthrough.,"미션을 다시 시작하고, 이번 플레이의 나머지 동안 난이도를 낮춥니다."
+Redo the turn from the start of the Player Phase.,플레이어 차례의 시작부터 턴을 다시 합니다.
+Load a file.,파일을 불러옵니다.
+Return to the title screen.,타이틀 화면으로 돌아갑니다.
+Are you sure you want to save? \NEWLINEAny existing data will be overwritten.,정말 저장하시겠습니까?  \NEWLINE기존 데이터는 덮어씌어집니다.      
+Are you sure you want to skip this chapter?,정말 이 챕터를 건너뛰시겠습니까?
+"Enemies are smarter, braver, and more ruthless. Everything is far less forgiving.\\PARThe ultimate challenge for masterful commanders!","적들이 더욱 영리해지고, 용감해지며, 보다 과감해집니다. 모든 것들이 더욱 엄격해져, 한 치의 실수도 용납치 않을 것입니다.\\PAR최고의 사령관들을 위한 궁극의 도전입니다!"
+Summons this new Risen unit into your reserves.,이 '부활한 자' 유닛을 예비대로 소환합니다.
+Summons this new Risen unit into your squad.,이 '부활한 자' 유닛을 분대에 소환합니다.
+(visual only),(겉모습만 적용됨)
+"WARNING! This class cannot be demoted.	",경고! 이 병과는 강등할 수 없습니다. 
+"Story characters from the previous playthrough will be available as non-story affecting ""copies"", but retain their unique class.","이전 회차의 중요 주,조연 등장인물들이 스토리에 영향을 끼치지 않는 ""클론""으로 제공되며, 자신의 고유 병과는 유지하게 됩니다."
+No units or items will from the previous run will be available. Playthrough options may still be selected.,이전 회차의 유닛이나 아이템은 동일한 형태로 제공되지 않습니다. 회차 플레이 옵션을 선택할 수 있습니다.
+Start the game at chapter 4 with some additional resources and Memory Fragments granted.,추가 자원과 기억의 조각을 가진채로 게임을 4장에서 부터 시작합니다.
+Units carried over from a previous playthrough will be reset to their initial class but have greatly increased XP and CP growth as well as a small stat boost.,"이전 회차에서 계승된 유닛들은 초기 병과로 리셋되어 있으나, XP 및 CP 성장률이 큰 폭으로 증가하고 능력치 또한 소폭 상승합니다."
+Adjust how many resources mines will grant.,광산들이 제공하는 자원량을 조정합니다.
+Adjust how much gold Surrender bounties will grant.,항복한 포로의 몸값 금화량을 조정합니다.
+Adjusts the starting stats and stat scaling of enemies in the game. Does not affect ally (green) squads.,게임 내 적의 시작 능력치와 성장 비례율(스케일링)을 조정합니다. 동맹 (초록색) 부대는 영향받지 않습니다.
+More battle experience will be required to advance Unit levels.,유닛 레벨 업에 필요한 전투 경험치 총량이 증가합니다.
+Enemy squads will be randomly equipped with artifacts.,적 부대는 무작위로 유물을 장착하게 됩니다.
+Certain enemy squad locations will be swapped.,일부 적 부대의 위치가 변경됩니다.
+Enemies will have an increasing ability to command Risen as the playthrough progresses.,회차가 진행되면서 적은 부활한 자를 부리는 능력이 점점 높아지게 됩니다.
+Increases the starting morale of most enemies and makes them slightly more resistant to morale loss in combat.,"적 대부분의 시작 사기를 높이고, 전투 중 사기 감소에 조금 더 저항하도록 합니다."
+Boss squads become more resistant to all damage types,보스 부대는 모든 피해 종류에 좀 더 저항성을 가지게 됩니다.
+Increases the effect of Zones of Control for ALL squads.,모든 부대의 제어 구역 효과를 강화합니다.
+Story characters' positive stat modifiers are reduced. Increases the charge time for Powers.,"주, 조연 등장인물들의 긍정적인 능력치 보정치가 감소합니다. 권능을 사용하기 위해 필요한 충전 시간이 늘어납니다."
+Each enemy leader is granted a Specialist trait that increases their power in certain situations.,모든 적 분대장들은 전문가 특성을 부여받아 특정한 상황에서 전력이 강화됩니다.
+Increases the penalties associated with terrain and weather.,지형과 날씨에서 부여되는 페널티를 강화합니다.
+Enemies recieve an additional stat boost based on the number of previous playthroughs completed.,기존에 완료한 회차 수에 기반하여 적들은 추가적인 능력치 보조를 받습니다.
+Story characters will retain certain properties from the previous playthrough upon rejoining.,"주, 조연 등장인물들은 이전 회차의 일부 특징을 합류하면서 유지하게 됩니다."
+"Non-unique, non-story characters will have their stat modifiers increased based on how many playthroughs they have survived.","주, 조연 등장인물 또는 유니크 용병이 아닌 캐릭터들은, 능력치 보정치가 회차 생존수에 따라 상승하게 됩니다."
+All gilded troops from the previous run will lose their gilded status when carried over into the next playthrough. Cost to be reduced accordingly.,이전 회차의 모든 정예 병력은 다음 회차로 계승시 정예 상태를 잃게 됩니다. 관련된 비용이 그에 비례하여 감소합니다.
+Are you sure you want to refund all merits?,모든 가치의 증명을 회수하시겠습니까?
+Makes this troop lose their gilded status. Cost to be reduced accordingly.,이 병력이 정예 상태를 잃게 됩니다. 관련된 비용이 그에 비례하여 감소합니다.
+All powers are unlocked from the start of the game.,모든 권능이 게임 시작부터 해금됩니다.
+Shops will restock certain items on purchase with an ever-increasing cost. Cost increase will be reset upon shop refresh.,"상점은 특정 아이템들을 당신이 구매하더라도, 영원히 상승하는 가격으로 항상 구비하게 됩니다. 비용 상승은 상점 초기화시 같이 초기화됩니다."
+"Arena can be played without a token, but no rewards will be granted in doing so. Arenas entered via token still grant normal rewards.","투기장은 이제 토큰이 없이도 입장이 가능하지만, 이 경우는 보상이 주어지지 않습니다. 토큰을 사용하여 입장한 투기장은 정상적으로 보상을 제공합니다."
+"Replay this mission. Missed objectives can be captured, but otherwise no additional rewards will be granted.","이 미션을 다시 도전합니다. 놓쳤던 목표물들을 점령할 수 있으나, 그것 외에 다른 보상은 주어지지 않습니다."
+Non-leader Units no longer suffer a penalty to LDR growth.,분대장이 아닌 유닛들은 더 이상 통솔력 능력치 성장에 페널티를 받지 않습니다.
+Adjust the overall rate of CP acquisition.,전반적인 CP 획득량을 조정합니다.
+Cost to Revive at Donari Temple,도나리교 사원에서 부활하는 비용
+Increased Unit Capacity cost past 5 Units in a Squad,"분대에서 5 유닛이 넘어갈 시, 보급 비용이 상승합니다."
+No Resource Exchange in Home Bases,아군 기지에서 자원 교환이 없어집니다.
+Enemies more clever and ruthless,적들이 더 교활하고 잔혹해집니다.
+Enemy Cavalry Squads can move after attacking,적 기병 부대가 공격 후 이동할 수 있습니다.
+In-Battle healing effect decreased,전투 중 치유 효과가 감소합니다.
+Increased Artifact Capacity cost,유물 보급 비용이 상승합니다.
+Attack power scales more slowly as stats increase,능력치가 상승함에 따라 공격력은 더 천천히 상승합니다.
+Rate of decreased magic and healing efficacy with repeated use in the same Phase.,같은 차례에서 마법 또는 치유를 연달아 사용시 효과가 더욱 감소합니다.
+Gunner volleys separated by row.,총병의 사격이 각 행별로 나누어집니다.
+Adjust shop prices.,상점 가격을 조정합니다.
+Thank you for purchasing the Legends DLC! The New Game+ options on this page require a Clear Save to carry over your previous army. Clear Chapter 30 in the main quest and create a Clear Save after the ending credits to enable!,"전설들 DLC를 구매해주셔서 감사합니다! 지금 보시는 페이지의 여러 새로운 게임+ 관련 설정들은, 플레이어가 이전 회차에서 성장시킨 병력을 불러올 수 있는 게임 클리어 데이터가 있어야 합니다. 주 임무의 제 30장을 클리어 하여, 엔딩 크레딧 이후에 게임 클리어 데이터를 저장하시면 새로운 게임+를 활성화 할 수 있습니다!"

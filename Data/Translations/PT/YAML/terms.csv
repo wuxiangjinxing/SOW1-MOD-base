@@ -1,0 +1,192 @@
+MHP,MPV
+M. HP,M. PV
+Weapon,Arma
+Armor,Armadura
+ARM,ARM
+STR,FOR
+LDR,LID
+MAG,MAG
+SKL,HAB
+CAP,CAP
+Leader,Líder
+Difficulty,Dificuldade
+Playtime,Tempo de jogo
+Cadet,Cadete
+Captain,Capitão
+Warlord,Senhor da guerra
+Enabled,Ativado
+Disabled,Desativado
+Permadeath,Morte permanente
+Windowed,Modo janela
+Large,Grande
+Resolution,Resolução
+Fullscreen,Tela cheia
+Normal,Normal
+Fast,Rápido
+Turbo,Turbo
+All,Tudo
+Players,Jogadores
+None,Nenhum
+Reserve,Reserva
+Class,Classe
+Threat,Ameaça
+Name,Nome
+Lv,Nv.
+Affinity,Afinidade
+HP,PV
+Known Traits,Características conhecidas
+Equipped Artifacts,Artefatos equipados
+Resources Used,Recursos usados
+Carried Resources,Recursos transportados
+Traits,Características
+Selling,Vendendo
+Buying,Comprando
+Rarity,Raridade
+Common,Comum
+Uncommon,Incomum
+Rare,Raro
+Epic,Épico
+Legendary,Lendário
+Sell Value,Valor de venda
+Original Value,Valor original
+Total Capacity,Capacidade total
+Cost,Custo
+Level,Nível
+Item Type,Tipo de item
+Total Stats,Estatísticas totais
+Deploy Limit,Limite de desdobramento
+Save Game?,Salvar jogo?
+(Outdated),(Desatualizado)
+Squad,Esquadrão
+Leader Traits,Características de líder
+Capacity,Capacidade
+Use Item,Usar item
+Requirements,Requisitos
+Current Class,Classe atual
+Friends,Amigos
+Family,Família
+Bonded,Vínculo
+No Relationships,Nenhum relacionamento
+Rewards,Recompensas
+Victory,Vitória
+Defeat,Derrota
+Challenge Missions,Missões de desafio
+Morale,Moral
+MORALE,MORAL
+Threat Rating,Classe de ameaça
+Move,Movim.
+Deployed,Desdobrado
+Scenario Results,Resultados do cenário
+Objectives Captured,Objetivos capturados:
+Turns Taken,Turnos usados
+Key Squads Neutralized,Esquadrões principais neutralizados
+Rank,Ranque
+Target Turns,Turnos do alvo
+Target Objectives Captured,Objetivos alvo capturados
+Ally Squads Remaining,Esquadrões aliados restantes
+Target Squads Neutralized,Esquadrões-alvos neutralizados
+Allied Squad Defeated,Esquadrão aliado derrotado
+Enemies Defeated,Inimigos derrotados
+Ally Losses,Perdas de aliados
+Bounty,Recompensa
+Surrenders,Rendições
+Home Base,Base principal
+Army,Exército
+V.Low,M.Baixo
+Low,Baixo
+Mid,Médio
+High,Alto
+V.High,M.Alto
+MAX,MÁX.
+Light,Luz
+Dark,Trevas
+Earth,Terra
+Lightning,Trovão
+Water,Água
+Fire,Fogo
+Turn,Turno
+Loading...,Carregando...
+Free Action!,Ação livre!
+Dodge!,Esquivar!
+AutoSave,Salv. Autom.
+Purchased!,Comprado!
+WINNER,VENCEDOR
+The other army is plotting...,O outro exército está tramando...
+Voluntary,Rendição
+Surrender,Voluntária
+Chance:,Chance:
+Charge!,Carga!
+NO DATA,SEM DADOS
+No Data,Sem dados
+Requires,Requer
+[Character]'s Squad,Esquadrão de [Character]
+XP,EXP
+CP,PC
+Faction XP,EXP de facção
+Light Infantry,Infantaria leve
+Light Cavalry,Cavalaria leve
+Slow Infantry,Infantaria lenta
+Page,Página
+Skip,Pular
+Remaining Healers,Curas restantes
+Remaining Revivers,Revivedores restantes
+Ludicrous,Absurdo
+Cycles,Ciclos
+Memory Fragments,Fragmentos de memória
+Clear Data,Apagar dados
+Turns Taken,Turnos usados
+Kills,Mortes
+Surrenders,Rendições
+Defeats,Mortes
+Fresh Start,Novo começo
+Head Start,Primeiro passo
+Prestige,Prestígio
+Resources,Recursos
+Bounties,Recompensas
+Scarce,Escasso
+Standard,Padrão
+Abundant,Abundante
+Shop Prices,Preços da loja
+Low,Baixo
+Medium,Médio
+High,Alto
+Game Rules,Regras do jogo
+Enemy Power,Poder do inimigo
+Challenges,Desafios
+Inexperienced Recruits,Recrutas inexperientes
+Well-Equipped Enemies,Inimigos bem equipados
+Enemy Scramble,Confusão do inimigo
+Dawn of the Risen,Amanhecer dos Ressuscitados
+Legends DLC Required,DLC Lendas necessário
+Stalwart Enemies,Inimigos resolutos
+Tougher Bosses,Chefes mais fortes
+ZoC++,ZoC++
+Nerfilim,Nephilim
+Enemy Specialists,Especialistas inimigos
+Nature's Wrath,Ira da natureza
+Veteran Enemies,Inimigos veteranos
+Heroes' Memory,Lembrança dos heróis
+Doppelgangers,Impostores
+Veteran Troops,Tropas veteranas
+Refund Merits,Reembolsar méritos
+Refund Merit,Reembolsa mérito
+Early Powers,Primeiros poderes
+Merchant Storeroom,Depósito dos mercantes
+Sandbox Arena,Arena de teste
+Replay Mission,Repetir missão
+Improved Mentorship,Mentoria melhorada
+CP Growth,Crescimento de PC
+??,??
+Locked,Bloqueado
+Revive Costs,Custos para reviver
+Squad Capacity Penalty,Penalidade de capacidade do esquadrão
+Limited Exchange,Troca limitada
+Enemy Advanced AI,IA avançada do inimigo
+Enemy Cavalry Hit-And-Run,Bater e correr da cavalaria inimiga
+Battle Healing Adjustment,Ajuste de cura em batalha
+Artifact Capacity Modifier,Modificador de capacidade de artefato
+Damage Formula Rebalance,Rebalanceamento de fórmula de dano
+Magic Fatigue Modifier,Modificador de fadiga mágica
+Smart Gunners,Artilheiros inteligentes
+Specalist,Especialista
+Start Game!,Iniciar o jogo!

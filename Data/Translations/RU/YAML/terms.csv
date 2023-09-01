@@ -1,0 +1,192 @@
+MHP,МОЗ
+M. HP,М. ОЗ
+Weapon,Оружие
+Armor,Броня
+ARM,БРН
+STR,СИЛ
+LDR,ЛДР
+MAG,МАГ
+SKL,НАВ
+CAP,РЗМР
+Leader,Лидер
+Difficulty,Сложность
+Playtime,Время в игре
+Cadet,Кадет
+Captain,Капитан
+Warlord,Полководец
+Enabled,Вкл
+Disabled,Выкл
+Permadeath,Перманентная смерть
+Windowed,В окне
+Large,Увеличенный
+Resolution,Разрешение
+Fullscreen,Полноэкранный режим
+Normal,Нормально
+Fast,Быстро
+Turbo,Турбо
+All,Все
+Players,Основные
+None,Нет
+Reserve,Резерв
+Class,Класс
+Threat,Угроза
+Name,Имя
+Lv,Ур.
+Affinity,Стихия
+HP,ОЗ
+Known Traits,Известные черты
+Equipped Artifacts,Экипированные артефакты
+Resources Used,Исп. ресурсов
+Carried Resources,Ресурсы в наличии
+Traits,Черты
+Selling,Продажа
+Buying,Покупка
+Rarity,Редкость
+Common,Обыч.
+Uncommon,Необыч.
+Rare,Редк.
+Epic,Эпич.
+Legendary,Легенд.
+Sell Value,Продажа
+Original Value,Стоимость
+Total Capacity,Суммарный размер
+Cost,Стоимость
+Level,Уровень
+Item Type,Тип предмета
+Total Stats,Итоговые характеристики
+Deploy Limit,Лимит развёртывания
+Save Game?,Сохранить игру?
+(Outdated),(Устарело)
+Squad,Отряд
+Leader Traits,Черты лидера
+Capacity,Размер
+Use Item,Использовать предмет
+Requirements,Требования
+Current Class,Текущий класс
+Friends,Друзья
+Family,Семья
+Bonded,Любовь
+No Relationships,Нет отношений
+Rewards,Награда
+Victory,Победа
+Defeat,Поражение
+Challenge Missions,Дополнительные цели
+Morale,Боевой дух
+MORALE,БОЕВОЙ ДУХ
+Threat Rating,Уровень угрозы
+Move,Движение
+Deployed,В бою
+Scenario Results,Результаты сценария
+Objectives Captured,Целей захвачено
+Turns Taken,Сделано ходов
+Key Squads Neutralized,Нейтрализовано ключевых отрядов
+Rank,Ранг
+Target Turns,Цель по числу ходов
+Target Objectives Captured,Целей захвачено
+Ally Squads Remaining,Союзных отрядов осталось
+Target Squads Neutralized,Цель по нейтрализованным отрядам
+Allied Squad Defeated,Потеряно союзных отрядов
+Enemies Defeated,Врагов побеждено
+Ally Losses,Потери союзников
+Bounty,Добыча
+Surrenders,Взято в плен
+Home Base,Главная база
+Army,Армия
+V.Low,Оч. низк.
+Low,Низк.
+Mid,Сред.
+High,Высок.
+V.High,Оч. высок.
+MAX,Макс.
+Light,Лёгкие
+Dark,Тьма
+Earth,Земля
+Lightning,Молния
+Water,Вода
+Fire,Огонь
+Turn,Ход
+Loading...,Загрузка...
+Free Action!,Дополнительное действие!
+Dodge!,Уклонение!
+AutoSave,Автосохранение
+Purchased!,Товар куплен!
+WINNER,ПОБЕДА
+The other army is plotting...,Враг строит планы...
+Voluntary,Добровольная
+Surrender,Сдача
+Chance:,Шанс:
+Charge!,В атаку!
+NO DATA,ДАННЫЕ ОТСУТСТВУЮТ
+No Data,Данные отсутствуют
+Requires,Требования
+[Character]'s Squad,Отряд: [Character]
+XP,ОПТ
+CP,КО
+Faction XP,ОПТ фракции
+Light Infantry,Лёгкая пехота
+Light Cavalry,Лёгкая кавалерия
+Slow Infantry,Медленная пехота
+Page,Страница
+Skip,Пропустить
+Remaining Healers,Осталось целителей
+Remaining Revivers,Осталось возрождений
+Ludicrous,Невообразимо
+Cycles,Циклы
+Memory Fragments,Воспоминания
+Clear Data,Стереть данные
+Turns Taken,Сделано ходов
+Kills,Убито
+Surrenders,Взято в плен
+Defeats,Смерти
+Fresh Start,Начать с нуля
+Head Start,Начать с форой
+Prestige,Престиж
+Resources,Ресурсы
+Bounties,Награды
+Scarce,Мало
+Standard,Стандартно
+Abundant,Много
+Shop Prices,Цены в магазине
+Low,Низк.
+Medium,Средние
+High,Высок.
+Game Rules,Правила игры
+Enemy Power,Сила врагов
+Challenges,Испытания
+Inexperienced Recruits,Неопытные салаги
+Well-Equipped Enemies,Хорошо снаряженные враги
+Enemy Scramble,Расторопные враги
+Dawn of the Risen,Рассвет восставших
+Legends DLC Required,Требуется расширение «Легенды»
+Stalwart Enemies,Крепкие враги
+Tougher Bosses,Сильные боссы
+ZoC++,ZoC++
+Nerfilim,Нерфилим
+Enemy Specialists,Враги-специалисты
+Nature's Wrath,Гнев природы
+Veteran Enemies,Враги-ветераны
+Heroes' Memory,Память героя
+Doppelgangers,Двойники
+Veteran Troops,Войска-ветераны
+Refund Merits,Сбросить заслуги
+Refund Merit,Сбросить заслугу
+Early Powers,Силы сразу
+Merchant Storeroom,Широкий выбор товаров
+Sandbox Arena,Арена-песочница
+Replay Mission,Повторить миссию
+Improved Mentorship,Улучшенное наставничество
+CP Growth,Больше КО
+??,??
+Locked,Заблокировано
+Revive Costs,Стоимость воскрешения
+Squad Capacity Penalty,Штраф к размеру отряда
+Limited Exchange,Ограниченный обмен
+Enemy Advanced AI,Улучшенный ИИ врагов
+Enemy Cavalry Hit-And-Run,«Бей и беги» для вражеской кавалерии
+Battle Healing Adjustment,Изменение лечения в бою
+Artifact Capacity Modifier,Модификатор цены использования артефактов
+Damage Formula Rebalance,Новая формула расчёта урона
+Magic Fatigue Modifier,Модификатор истощения магии
+Smart Gunners,Умные стрелки
+Specalist,Специалист
+Start Game!,Начать игру!

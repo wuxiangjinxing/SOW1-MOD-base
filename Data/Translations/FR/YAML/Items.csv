@@ -1,0 +1,110 @@
+ENGLISH,FRENCH
+XP Codex,Codex d'EXP
+Used to instantly level up any Unit in your Army. Can only be used on a Unit with a lower level than your highest leveled Unit.,Permet d'augmenter instantanément le niveau de n'importe quelle unité de votre armée. Ne peut être utilisé que sur une unité dont le niveau est inférieur à celui de votre unité de plus haut niveau.
+CP Codex,Codex de Classe
+Used to increase the Class Mastery of the current Class of any Unit in your Army by 500.,Permet d'augmenter de 500 la maîtrise de classe actuelle de toute unité de votre armée.
+Bronze Arena Token,Jeton d'arène de bronze
+"""The Imperial Academy has not sanctioned these gladitorial games, but is happy to recruit its victors.""","« L'Académie impériale n'a pas autorisé ces jeux de gladiateurs, mais elle est heureuse de recruter ses vainqueurs. »"
+Silver Arena Token,Jeton d'arène en argent
+"""The Emborian Tundra is vast and harsh, and forges much more resilient warriors.""","« La toundra d'Embor est vaste et dangereuse, elle forge des guerriers bien plus résistants. »"
+Gold Arena Token,Jeton d'arène en or
+"""In the deserts of Sayunaa lies a fortress hidden in the cliffs. A location soaked with the blood of many generations of gladiators.""",« Dans les déserts de Sayunaa se trouve une forteresse cachée dans les falaises. Un endroit imbibé du sang de plusieurs générations de gladiateurs. »
+Platinum Arena Token,Jeton d'arène en platine
+Proof of Merit,Preuve du mérite
+Use on a Tier 3 unit with maxed CP to upgrade them to a gold version of their current class. Will no longer be able to class change.,À utiliser sur une unité de rang 3 avec un niveau de classe maximal pour l'améliorer en version or de leur classe actuelle. Ne pourra plus effectuer de changement de classe.
+Iron,Fer
+"This common resource is a staple of any army, and is used to create steel equipment. ","Cette ressource commune est un élément de base de toute armée, et est utilisée pour créer des équipements en acier. "
+Obsidian,Obsidienne
+"An exotic, dense, super-tensile material master blacksmiths can use to greatly augment steel equipment. While weapons become slightly heavier, they become much more deadly.","Un matériau exotique, dense et très résistant que les maîtres forgerons peuvent utiliser pour améliorer considérablement les équipements en acier. Quand les armes deviennent légèrement plus lourdes, elles deviennent beaucoup plus meurtrières."
+Sunstone,Pierre du soleil
+A rare and precious stone that exhibits the unique ability to focus and enhance healing and Light magics.,Une pierre rare et précieuse qui possède la capacité unique de concentrer et d'améliorer la guérison et la magie de la lumière.
+Gems,Gemmes
+Somewhat commonly-found gemstones that are required in most magicraft.,Des pierres précieuses assez courantes qui sont nécessaires à la plupart des travaux de magie.
+Pyrocite,Pyrocite
+"The most precious resource of our time. This highly unstable ore has been useless until recently. Now, we can harness its explosive power.","La ressource la plus précieuse de notre temps. Ce minerai très instable n'avait aucune utilité jusqu'à maintenant. Désormais, nous pouvons exploiter sa puissance explosive."
+Horses,Chevaux
+Specially-bred war horses large and brave enough to enter the flames of battle.,Des chevaux de guerre assez grands et courageux pour entrer dans le feu de la bataille.
+Tech Points,Points Tech
+Donari Chronicle,Chroniques de Donari
+"Used by Squad Leaders only to simulate defeating an enemy squad of 6 equal level units,
+granting XP and CP, as well as LDR and Loyalty progress to the whole squad.","Utilisé uniquement par les chefs d'escouade pour simuler la défaite d'une escouade ennemie composée de 6 unités de même niveau,
+ce qui accorde de l'EXP et des PC, ainsi que des progrès en matière de MNR et de Loyauté à l'ensemble de l'escouade."
+Mint Leaves of Magic,Feuilles de menthe de Magie
+Used to increase a Unit's MAG by a small amount.,Utilisé pour augmenter la MAG d'une unité d'une petite quantité.
+Roast Beef of Might,Rôti de bœuf de Puissance
+Used to increase a Unit's STR by a small amount.,Utilisé pour augmenter la FOR d'une unité d'une petite quantité.
+Apple of Agility,Pomme d'Agilité
+Used to increase a Unit's SKL by a small amount.,Utilisé pour augmenter la COMP d'une unité d'une petite quantité.
+Salmon of Health,Saumon de Santé
+Used to increase a Unit's MaxHP by a small amount.,Utilisé pour augmenter les PV Max d'une unité d'une petite quantité.
+Medal of Valor,Médaille du Courage
+"Increase a unit's LDR by +3 up to 50, +2 up to 60, +1 up to 70, cannot be used on a Unit with 70+ LDR.","Augmente la statistique de MNR d'une unité de +3 jusqu'à 50, +2 jusqu'à 60, +1 jusqu'à 70, ne peut pas être utilisé sur une unité avec 70+ de MNR."
+Affinity: Earth,Affinité : Terre
+"Change a unit's Affinity to Earth. Stats will change retroactively. ++HP, -SKL","Changez l'affinité d'une unité pour la Terre. Les statistiques changeront rétroactivement. ++PV, -COMP"
+Affinity: Water,Affinité : Eau
+"Change a unit's Affinity to Water. Stats will change retroactively. +HP, -STR, -SKL, + MAG","Changez l'Affinité d'une unité pour l'Eau. Les statistiques changeront rétroactivement. +PV, -FOR, -COMP, + MAG"
+Affinity: Lightning,Affinité : Foudre
+"Change a unit's Affinity to Lightning. Stats will change retroactively. -HP, +STR, +SKL, -Loyalty","Changez l'affinité d'une unité pour la Foudre. Les statistiques changeront rétroactivement. -PV, +FOR, +COMP, -Loyauté"
+Affinity: Fire,Affinité : Feu
+"Change a unit's Affinity to Fire. Stats will change retroactively. +STR, -MAG, +Loyalty","Changez l'affinité d'une unité pour le Feu. Les statistiques changeront rétroactivement. +FOR, -MAG, +Loyauté"
+Affinity: Dark,Affinité : Ténèbres
+"Change a unit's Affinity to Dark. Stats will change retroactively. ++STR, ++MAG, --LDR, --Loyalty","Changez l'affinité d'une unité pour les Ténèbres. Les statistiques changeront rétroactivement. ++FOR, ++MAG, --MNR, --Loyauté"
+Affinity: Light,Affinité : Lumière
+"Change a unit's Affinity to Light. Stats will change retroactively. ++LDR, ++Loyalty","Changez l'Affinité d'une unité pour la Lumière. Les statistiques changeront rétroactivement. ++MNR, ++Loyauté"
+Trait: Scavenger,Atout : Charognard
+Teach trait to a unit.,Enseigner l'atout à une unité.
+Trait: Garrison,Atout : Garnison
+Trait: Bodyguard,Atout : Garde du corps
+Trait: Vengeance,Atout : Vengeance
+Trait: Overpower,Atout : Surpasser
+Trait: Imposing,Atout : Imposant
+Trait: Unassuming,Atout : Sans prétention
+Trait: Resolve,Atout : Volonté
+Trait: Unscathed,Atout : Indemne
+Trait: Precision,Atout : Précision
+Trait: Assassin's Heart,Atout : Cœur d'Assassin
+Trait: Archer Captain,Atout : Capitaine Archer
+Trait: Soldier Captain,Atout : Capitaine Soldat
+Trait: Knight Captain,Atout : Capitaine Chevalier
+Trait: Concentration,Atout : Concentration
+Trait: Disarm,Atout : Désarmement
+Trait: Lithe Assault,Atout : Assaut gracieux
+Trait: Assassin's Reaper,Atout : Faucheur de l'assassin
+Trait: Bowmanship,Atout : Tireur à l'arc
+Trait: Dragonslayer,Atout : Tueur de dragons
+Trait: Warrior's Hubris,Atout : Orgueil du guerrier
+Trait: Challenger,Atout : Compétiteur
+Trait: Executioner,Atout : Bourreau
+Trait: Healing Attuned,Atout : Guérison perfectionnée
+Trait: Cold-Blooded,Atout : Sang froid
+Trait: Beacon,Atout : Balise
+Trait: Arcane Barrier,Atout : Barrière des arcanes
+Trait: Arcane Might,Atout : Puissance des arcanes
+Trait: Arcane Speed,Atout : Vitesse des arcanes
+Trait: Arcane Vigor,Atout : Vigueur des arcanes
+Trait: Counterattack,Atout : Contre-attaque
+Trait: Desperation,Atout : Désespoir
+Trait: Immortal Spirit,Atout : Esprit immortel
+Trait: Smite,Atout : Frappe
+Trait: Shock and Awe,Atout : Choc et stupéfaction
+Trait: Bloodlust,Atout : Soif de sang
+Trait: Silver-Tongued,Atout : Langue d'argent
+Trait: Treasure Hunter,Atout : Chasseur de trésors
+Trait: Tundra Warrior,Atout : Guerrier de la toundra
+Trait: Desert Warrior,Atout : Guerrier du désert
+"""This battlefield, suspended in the clouds is reserved for all the fiercest and most celebrated warriors.""","« Ce champ de bataille, suspendu dans les nuages, est réservé aux guerriers les plus féroces et les plus célèbres. »"
+Mark of the Risen,Marque du Ressuscité
+Use on any Tier 3 Mage or Support Unit to class change them to a Necromancer.,À utiliser sur un Mage de Rang 3 ou une Unité de Soutien pour changer leur classe en Nécromancien.
+Defiled Donari Tome,Tome Donari Souillé
+Use on any Tier 3 Mage or Support Unit to class change them to a Dark Mage.,À utiliser sur un Mage de Rang 3 ou une Unité de Soutien pour changer leur classe en Mage Noir.
+Trait: Benevolent,Atout : Bienveillant
+Trait: Liberator,Atout : Libérateur
+Trait: Rally,Atout : Rallier
+Trait: Barricade,Atout : Barricade
+Trait: Pacifist,Atout : Pacifiste
+Trait: Wide Guard,Atout : Garde Étendue
+Trait: Raid Captain,Atout : Capitaine de Raid
+Book of Unlife,Le livre de la non-vie
+Use during Squad Organize to summon a persistent Risen.,À utiliser pendant l'organisation de la escouade pour invoquer un Ressuscité Persistant.
+Blank Tome,Tome Vierge
+Copy a Learned Trait,Copier un Trait Appris

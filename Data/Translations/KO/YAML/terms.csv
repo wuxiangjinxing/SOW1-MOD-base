@@ -1,0 +1,192 @@
+MHP,최대 체력
+M. HP,최대 체력
+Weapon,무기
+Armor,방어구
+ARM,방어구
+STR,힘
+LDR,통솔력
+MAG,마력
+SKL,재주
+CAP,보급
+Leader,부대장
+Difficulty,난이도
+Playtime,플레이 시간
+Cadet,후보생
+Captain,대장
+Warlord,군벌
+Enabled,켬
+Disabled,끔
+Permadeath,영구 사망
+Windowed,창 모드
+Large,넓음
+Resolution,해상도
+Fullscreen,풀 스크린
+Normal,일반
+Fast,빠름
+Turbo,터보
+All,모두
+Players,플레이어
+None,없음
+Reserve,예비대
+Class,병과
+Threat,위협
+Name,이름
+Lv,Lv
+Affinity,속성
+HP,체력
+Known Traits,알려진 특성
+Equipped Artifacts,장착한 유물
+Resources Used,사용된 자원
+Carried Resources,운반된 자원
+Traits,특성
+Selling,판매
+Buying,구매
+Rarity,희귀도
+Common,흔함
+Uncommon,드뭄
+Rare,희귀
+Epic,서사
+Legendary,전설
+Sell Value,판매 값
+Original Value,원래 값
+Total Capacity,총 용량
+Cost,비용
+Level,레벨
+Item Type,아이템 유형
+Total Stats,총 능력치
+Deploy Limit,배치 한도
+Save Game?,게임을 저장할까요?
+(Outdated),(업데이트 필요)
+Squad,부대
+Leader Traits,부대장 특성
+Capacity,보급
+Use Item,아이템 사용
+Requirements,요구조건
+Current Class,현재 병과
+Friends,친구
+Family,가족
+Bonded,결속됨
+No Relationships,관계 없음
+Rewards,보상
+Victory,승리
+Defeat,패배
+Challenge Missions,도전 미션
+Morale,사기
+MORALE,사기
+Threat Rating,위협도
+Move,이동
+Deployed,배치됨
+Scenario Results,시나리오 결과
+Objectives Captured,목표물 점령
+Turns Taken,소모한 턴
+Key Squads Neutralized,핵심 부대 무력화
+Rank,랭크
+Target Turns,대상 턴
+Target Objectives Captured,대상 목표물 점령
+Ally Squads Remaining,남아있는 동맹군 부대
+Target Squads Neutralized,대상 부대 무력화
+Allied Squad Defeated,동맹군 부대 패배
+Enemies Defeated,적 패배
+Ally Losses,동맹군 피해
+Bounty,항복한 포로의 몸값
+Surrenders,항복
+Home Base,기지
+Army,군대
+V.Low,매우 낮음
+Low,낮음
+Mid,중간
+High,높음
+V.High,매우 높음
+MAX,최대
+Light,빛
+Dark,어둠
+Earth,흙
+Lightning,번개
+Water,물
+Fire,불
+Turn,턴
+Loading...,불러오는 중...
+Free Action!,추가 행동!
+Dodge!,회피!
+AutoSave,자동저장
+Purchased!,구매함!
+WINNER,승자
+The other army is plotting...,다른 군대가 행동 중입니다...
+Voluntary,자진
+Surrender,항복
+Chance:,가능성:
+Charge!,돌격!
+NO DATA,데이터 없음
+No Data,데이터 없음
+Requires,필요
+[Character]'s Squad,[Character]의 부대
+XP,XP
+CP,CP
+Faction XP,진영 XP
+Light Infantry,경보병
+Light Cavalry,경기병
+Slow Infantry,느린 보병
+Page,페이지
+Skip,건너뛰기
+Remaining Healers,남은 치유자
+Remaining Revivers,남은 부활자
+Ludicrous,루나틱
+Cycles,회차
+Memory Fragments,기억의 조각
+Clear Data,클리어 데이터
+Turns Taken,소모한 턴
+Kills,처치 수
+Surrenders,총 항복한 적 수
+Defeats,사망자 수
+Fresh Start,깨끗한 시작
+Head Start,앞서나간 시작
+Prestige,특전
+Resources,자원
+Bounties,항복한 포로의 몸값
+Scarce,희귀
+Standard,일반
+Abundant,풍부
+Shop Prices,상점 가격
+Low,낮음
+Medium,중간
+High,높음
+Game Rules,게임 규칙
+Enemy Power,적 전력
+Challenges,도전과제
+Inexperienced Recruits,미숙련된 신병
+Well-Equipped Enemies,중무장한 적들
+Enemy Scramble,혼비백산한 적
+Dawn of the Risen,부활한 자의 새벽
+Legends DLC Required,전설들 DLC 필요
+Stalwart Enemies,더욱 튼튼한 적들
+Tougher Bosses,더욱 강인한 보스들
+ZoC++,ZoC++
+Nerfilim,너프먹은 네필림
+Enemy Specialists,적 스페셜리스트
+Nature's Wrath,자연의 분노
+Veteran Enemies,베테랑 적들
+Heroes' Memory,영웅의 기억
+Doppelgangers,도플갱어
+Veteran Troops,베테랑 병력
+Refund Merits,가치의 증명들 회수
+Refund Merit,가치의 증명 회수
+Early Powers,이른 권능
+Merchant Storeroom,상인의 창고
+Sandbox Arena,샌드박스 투기장
+Replay Mission,임무 다시하기?
+Improved Mentorship,향상된 멘토쉽
+CP Growth,CP 성장
+??,??
+Locked,잠김
+Revive Costs,부활 비용
+Squad Capacity Penalty,분대 보급 페널티
+Limited Exchange,제한된 위치교환
+Enemy Advanced AI,향상된 적 AI
+Enemy Cavalry Hit-And-Run,적 기병의 치고-빠지기 전술 구사
+Battle Healing Adjustment,전투중 치유 조정
+Artifact Capacity Modifier,유물 보급 한도 보정
+Damage Formula Rebalance,피해 공식 재조정
+Magic Fatigue Modifier,마력 고갈 보정
+Smart Gunners,똑똑한 총병들
+Specalist,스페셜리스트
+Start Game!,게임 시작!

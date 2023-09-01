@@ -1,0 +1,116 @@
+ENGLISH,ZH-cn
+XP Codex,战斗经验宝典
+Used to instantly level up any Unit in your Army. Can only be used on a Unit with a lower level than your highest leveled Unit.,使用后，让部队中的任一单位即刻升入下一级，只能用于比你已有最高级单位等级更低的单位上。
+CP Codex,职业经验宝典
+Used to increase the Class Mastery of the current Class of any Unit in your Army by 500.,使用后，可提升任一单位当前职业500点职业熟练度。
+Bronze Arena Token,青铜竞技场代币
+"""The Imperial Academy has not sanctioned these gladitorial games, but is happy to recruit its victors.""",“帝国学院并不承认这类角斗游戏，但却乐于对其中的胜者伸出橄榄枝。”
+Silver Arena Token,白银竞技场代币
+"""The Emborian Tundra is vast and harsh, and forges much more resilient warriors.""",“恩博尔苔原广袤且严酷的自然环境是锤炼刚强勇士的大熔炉。”
+Gold Arena Token,黄金竞技场代币
+"""In the deserts of Sayunaa lies a fortress hidden in the cliffs. A location soaked with the blood of many generations of gladiators.""",“萨育纳沙漠的悬崖中隐藏着一座堡垒，那是浸润了几代角斗士鲜血严酷猎场。”
+Platinum Arena Token,白金竞技场代币
+Proof of Merit,华彩之证
+Use on a Tier 3 unit with maxed CP to upgrade them to a gold version of their current class. Will no longer be able to class change.,对一名职业熟练度达到最大的3阶单位使用，以将其强化为当前职业的黄金位阶，这之后该单位将无法改变职业。
+Iron,铁锭
+"This common resource is a staple of any army, and is used to create steel equipment. ",这种常见资源是所有军队的基石，被用于打造钢铁装备。
+Obsidian,黑曜石
+"An exotic, dense, super-tensile material master blacksmiths can use to greatly augment steel equipment. While weapons become slightly heavier, they become much more deadly.",一种罕见、致密、极具延展性的材料，锻造大师能用它显著增强钢铁装备的性能。武器只是稍稍变沉，却会变得致命许多。
+Sunstone,太阳石
+A rare and precious stone that exhibits the unique ability to focus and enhance healing and Light magics.,一种罕见且珍贵的宝石，对治疗和光明魔法表现出独特的聚能和强化效果。
+Gems,宝石
+Somewhat commonly-found gemstones that are required in most magicraft.,某种意义上比较常见的宝石，为大部分魔法工艺所需。
+Pyrocite,火铁矿
+"The most precious resource of our time. This highly unstable ore has been useless until recently. Now, we can harness its explosive power.",这个时代最宝贵的资源。这种高度不稳定的矿物直到最近才有了用武之地。现在，我们能够驾驭其中的爆裂能量了。
+Horses,马匹
+Specially-bred war horses large and brave enough to enter the flames of battle.,特别培育的战马，高大勇猛，足以面对炽烈的战火。
+Tech Points,科技点数
+Donari Chronicle,多纳尔编年史
+"Used by Squad Leaders only to simulate defeating an enemy squad of 6 equal level units,
+granting XP and CP, as well as LDR and Loyalty progress to the whole squad.","可由小队队长使用，来与一个由6名同级敌人组成的小队进行模拟战，
+整个小队均可获得战斗经验、职业熟练度、统率和忠诚度提升。"
+Mint Leaves of Magic,魔法薄荷
+Used to increase a Unit's MAG by a small amount.,使用后，略微提升一个单位的魔法值。
+Roast Beef of Might,力量烤肉
+Used to increase a Unit's STR by a small amount.,使用后，略微提升一个单位的力量值。
+Apple of Agility,敏捷苹果
+Used to increase a Unit's SKL by a small amount.,使用后，略微提升一个单位的灵巧值。
+Salmon of Health,健康三文鱼
+Used to increase a Unit's MaxHP by a small amount.,使用后，略微提升一个单位的最大生命值。
+Medal of Valor,勇气勋章
+"Increase a unit's LDR by +3 up to 50, +2 up to 60, +1 up to 70, cannot be used on a Unit with 70+ LDR.",提升一个单位的统率：低于50点时+3，低于60点时+2，低于70点时+1，无法用于统率高于70点的单位。
+Affinity: Earth,转属绘卷：土
+"Change a unit's Affinity to Earth. Stats will change retroactively. ++HP, -SKL","将某个单位的属性更改为土，单位的各项数值也会随之改变：
+++生命，-灵巧"
+Affinity: Water,转属绘卷：水
+"Change a unit's Affinity to Water. Stats will change retroactively. +HP, -STR, -SKL, + MAG","将某个单位的属性更改为水，单位的各项数值也会随之改变：
++生命，-力量，-灵巧，+魔法"
+Affinity: Lightning,转属绘卷：雷
+"Change a unit's Affinity to Lightning. Stats will change retroactively. -HP, +STR, +SKL, -Loyalty","将某个单位的属性更改为雷，单位的各项数值也会随之改变：
+-生命，+力量，+灵巧，-忠诚"
+Affinity: Fire,转属绘卷：火
+"Change a unit's Affinity to Fire. Stats will change retroactively. +STR, -MAG, +Loyalty","将某个单位的属性更改为火，单位的各项数值也会随之改变：
++力量，-魔法，+忠诚"
+Affinity: Dark,转属绘卷：暗
+"Change a unit's Affinity to Dark. Stats will change retroactively. ++STR, ++MAG, --LDR, --Loyalty","将某个单位的属性更改为暗，单位的各项数值也会随之改变：
+++力量，++魔法，--统率，--忠诚"
+Affinity: Light,转属绘卷：光
+"Change a unit's Affinity to Light. Stats will change retroactively. ++LDR, ++Loyalty","将某个单位的属性更改为光，单位的各项数值也会随之改变：
+++统率，++忠诚度"
+Trait: Scavenger,特性：拾荒不辍
+Teach trait to a unit.,使一名单位习得该特性。
+Trait: Garrison,特性：就地驻扎
+Trait: Bodyguard,特性：挺身而出
+Trait: Vengeance,特性：报仇雪恨
+Trait: Overpower,特性：以力服人
+Trait: Imposing,特性：气度不凡
+Trait: Unassuming,特性：深藏不露
+Trait: Resolve,特性：坚毅不挠
+Trait: Unscathed,特性：铜墙铁壁
+Trait: Precision,特性：百发百中
+Trait: Assassin's Heart,特性：刺客之心
+Trait: Archer Captain,特性：弓兵队长
+Trait: Soldier Captain,特性：步兵队长
+Trait: Knight Captain,特性：骑兵队长
+Trait: Concentration,特性：全神贯注
+Trait: Disarm,特性：夺刃巧击
+Trait: Lithe Assault,特性：灵巧攻击
+Trait: Assassin's Reaper,特性：刺魂夺魄
+Trait: Bowmanship,特性：射艺精湛
+Trait: Dragonslayer,特性：屠龙勇士
+Trait: Warrior's Hubris,特性：勇者之傲
+Trait: Challenger,特性：遇强则强
+Trait: Executioner,特性：手起刀落
+Trait: Healing Attuned,特性：回春有术
+Trait: Cold-Blooded,特性：冷酷无情
+Trait: Beacon,特性：生生不息
+Trait: Arcane Barrier,特性：奥法之盾
+Trait: Arcane Might,特性：奥法之力
+Trait: Arcane Speed,特性：奥法之速
+Trait: Arcane Vigor,特性：奥法之魄
+Trait: Counterattack,特性：以守为攻
+Trait: Desperation,特性：背水一战
+Trait: Immortal Spirit,特性：魂在人在
+Trait: Smite,特性：千钧一击
+Trait: Shock and Awe,特性：口径即正义
+Trait: Bloodlust,特性：渴血击杀
+Trait: Silver-Tongued,特性：能说会道
+Trait: Treasure Hunter,特性：赏金猎人
+Trait: Tundra Warrior,特性：苔原勇士
+Trait: Desert Warrior,特性：黄沙勇士
+"""This battlefield, suspended in the clouds is reserved for all the fiercest and most celebrated warriors.""",“这个悬在云端的战场专属于最为凶悍的知名勇士。”
+Mark of the Risen,复苏者之面具
+Use on any Tier 3 Mage or Support Unit to class change them to a Necromancer.,用于任何3阶法师或辅助单位身上，将其职业变更为亡灵法师
+Defiled Donari Tome,被亵渎的多纳尔教圣典
+Use on any Tier 3 Mage or Support Unit to class change them to a Dark Mage.,用于任何3阶法师或辅助单位身上，将其职业变更为暗法师
+Trait: Benevolent,特性：慈悲为怀
+Trait: Liberator,特性：解放者
+Trait: Rally,特性：振奋军心
+Trait: Barricade,特性：高筑街垒
+Trait: Pacifist,特性：和平主义者
+Trait: Wide Guard,特性：拓宽援护
+Trait: Raid Captain,特性：劫掠队长
+Book of Unlife,死灵之书
+Use during Squad Organize to summon a persistent Risen.,进行队伍管理时使用，召唤一个能长存的复苏单位。
+Blank Tome,空白典籍
+Copy a Learned Trait,复制一份已经学会的特性

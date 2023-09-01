@@ -1,0 +1,148 @@
+New Game,새로운 게임
+Load QuickSave,빠른 저장 불러오기
+Load Game,게임 불러오기
+Options,설정
+Join Discord,Discord 가입
+Shutdown,게임 종료
+Deploy,출격
+Organize Army,병력 관리
+Tech Tree,연구 개발
+Marketplace,교역소
+Tutorials and Info,전술 가이드 및 정보
+Supports,지원 회화
+Arena,투기장
+Arena/Extras,투기장/기타
+System,시스템
+Bronze Arena,황동 투기장
+Silver Arena,순은 투기장
+Gold Arena,황금 투기장
+Platinum Arena,백금 투기장
+Save Game,게임 저장
+Reload,다시 불러오기
+To Title,타이틀 화면으로
+Main Volume,메인 볼륨
+Music Volume,음악 볼륨
+SFX Volume,SFX 볼륨
+Voice Volume,음성 볼륨
+Tutorials,전술 가이드
+Instant Text,텍스트 즉시표시
+Mouse,마우스
+Tactical Grid,전술 그리드
+Permadeath,영구 사망
+Animation Speed,애니메이션 속도
+Show Combats,전투 장면 보기
+Screen Size,화면 모드 선택
+Restore Defaults,기본 설정으로 복구
+Return to Game,게임으로 돌아가기
+Exit Game/Return to Title,게임 나가기/타이틀로
+Yes,네
+No,아니오
+Exit Game,게임 나가기
+Cancel,취소
+Squad Operations,부대 관리
+Disband Squad,부대 해체
+Form New Squad,새로운 부대 형성
+Reorder Squads,부대 재정리
+Unit Status,유닛 상태
+Use Item,아이템 사용
+Change Class,병과 변경
+Dismiss Unit,유닛 제거
+Exit,나가기
+Recruit,모집
+Trader,상인
+Sell Items,아이템 팔기
+Exchange,자원 교환
+Relationships,관계
+Conversations,대화
+Archives,보관소
+Begin Mission,미션 시작
+Mission Info,미션 정보
+Organize,병력 관리
+Retreat,후퇴
+Squad Status,부대 상태
+Remove Squad,부대 제거
+Replace Squad,부대 대체
+Edit Squad,부대 편집
+Wait,대기
+Treasure,보물
+Status,상태
+End Turn,턴 끝내기
+Squad List,부대 목록
+Hover Paths Disabled,호버 경로 해제
+Powers,권능
+Tutorial,전술 가이드
+Showing: Hover Only,표시: 호버만
+Language,언어
+Move Unit,유닛 이동
+Add Unit,유닛 추가
+Remove Unit,유닛 제거
+Artifacts,유물
+Clear Squad,부대 초기화
+Continue Main Story,메인 스토리 진행
+Gaiden Chapter A: Unrelenting Ambition,외전 장 A: 꺾이지 않는 야망
+Gaiden Chapter B: Dragon's Haven,외전 장 B: 용의 안식처
+Gaiden Chapter C: No Mercy for the Merciful,외전 장 C: 자비로운 이를 위한 자비는 없다
+Gaiden Chapter D: Clockwork City,외전 장 D: 시계태엽 도시
+Gaiden Chapter E: Ishtar's Lament,외전 장 E: 이슈타르의 탄식
+QuickSave,빠른 저장
+QuickLoad,빠른 저장 불러오기
+Load,불러오기
+Redo Turn,턴 다시 하기
+Restart,재시작
+Exit Game/Title,게임 나가기/타이틀
+Meteor,운석 소환
+Teleport,순간 이동
+Exemplar,수석 성기사
+Terror,공포
+Blessing,축복
+Showing: Enemy Move,표시: 적 이동
+Showing: Ambush Tiles,표시: 매복 타일
+Showing: Charge Tiles,표시: 돌격 타일
+Attack,공격
+\M[tactic_normal.png]Normal Attack,\M[tactic_normal.png]일반 공격
+\M[tactic_forcesurrender.png]Force Surrender,\M[tactic_forcesurrender.png]투항 권고
+\M[tactic_leader.png]Target Leader,\M[tactic_leader.png]부대장 집중공격
+\M[tactic_aggressive.png]Aggressive,\M[tactic_aggressive.png]공격적
+\M[tactic_cautious.png]Cautious,\M[tactic_cautious.png]신중
+Heal,치유
+Heal/Revive,치유/부활
+Revive,부활
+Start Game,게임 시작
+Shop,상점
+Refresh Heals,치유 재충전
+Move,이동
+Seize,점령
+Activate,활성화
+Shuffle,위치변경
+Tactics,전술
+Depart,떠나기
+Armory,무기고
+Demote,강등
+Promote,승급
+Formation,진형
+All,모두
+Rename,이름 바꾸기
+Title Screen,타이틀 스크린
+Bronze,황동색
+Silver,은색
+Gold,금색
+Platinum,백금색
+Requires:,필요:
+Rename Scroll,이름 바꾸기 스크롤
+Resources Used:,사용된 자원:
+Form Squad,부대 형성
+Enable Tutorials,전술 가이드 활성화
+"Enable ""Permadeath""","영구 죽음"" 활성화"""
+Skip All,모두 건너 뛰기
+Return to Base,기지로 복귀
+Restart Mission,미션 재시작
+Load Save,저장 로딩
+Return to Title,다시 타이틀로
+Save/Load,저장/로딩
+Select Squads,부대 선택
+Dismiss,전역
+Skip Chapter,장 건너뛰기
+Classic Portraits,구 초상화
+High-Res Font,고해상도 글꼴
+Map Sprite,부대표시 아이콘
+Legends Chapters,전설들 외전

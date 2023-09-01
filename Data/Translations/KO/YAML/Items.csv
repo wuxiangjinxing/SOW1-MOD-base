@@ -1,0 +1,116 @@
+ENGLISH,KOREAN
+XP Codex,XP 코덱스
+Used to instantly level up any Unit in your Army. Can only be used on a Unit with a lower level than your highest leveled Unit.,군대의 어느 유닛이든 즉시 레벨 업하는 데 사용합니다. 내 가장 높은 레벨 유닛보다 낮은 레벨의 유닛 하나에만 사용할 수 있습니다.
+CP Codex,CP 코덱스
+Used to increase the Class Mastery of the current Class of any Unit in your Army by 500.,내 군대의 어떤 유닛이든 현재 병과의 숙련도를 500만큼 올리는 데 사용합니다.
+Bronze Arena Token,황동색 투기장 토큰
+"""The Imperial Academy has not sanctioned these gladitorial games, but is happy to recruit its victors.""","제국 사관학교는 이러한 투기장 게임을 허가하지 않았으나, 승자의 사관학교 합류만큼은 환영한다."
+Silver Arena Token,은색 투기장 토큰
+"""The Emborian Tundra is vast and harsh, and forges much more resilient warriors.""","엠보어 툰트라는 광대하고 거칠며, 보다 더 강인한 전사들을 양성한다."
+Gold Arena Token,금색 투기장 토큰
+"""In the deserts of Sayunaa lies a fortress hidden in the cliffs. A location soaked with the blood of many generations of gladiators.""",사유나 사막에는 절벽에 숨겨진 요새가 있다. 여러 세대에 걸친 검투사의 피로 젖은 곳이다.
+Platinum Arena Token,백금색 투기장 토큰
+Proof of Merit,가치의 증명
+Use on a Tier 3 unit with maxed CP to upgrade them to a gold version of their current class. Will no longer be able to class change.,최고 CP의 티어 3 유닛 하나를 현재 병과의 정예 버전으로 업그레이드 합니다. 더 이상 병과를 변경할 수 없습니다.
+Iron,철
+"This common resource is a staple of any army, and is used to create steel equipment. ","어느 군대에나 중요한 흔한 자원으로, 강철 장비를 제작하는 데 사용합니다. "
+Obsidian,흑요석
+"An exotic, dense, super-tensile material master blacksmiths can use to greatly augment steel equipment. While weapons become slightly heavier, they become much more deadly.","이국적이고 치밀하며 인장력이 매우 뛰어난 재료로, 장인급 대장장이가 강철 장비를 대폭 강화하는 데 사용합니다. 무기가 조금 더 무거워지지만, 그만큼 더 치명적이게 됩니다."
+Sunstone,태양석
+A rare and precious stone that exhibits the unique ability to focus and enhance healing and Light magics.,희귀하고 값진 광물로 치유와 빛 마법에 집중하여 강화해 줍니다.
+Gems,보석
+Somewhat commonly-found gemstones that are required in most magicraft.,대부분의 마법 제작에 필요한 다소 흔하게 찾을 수 있는 보석.
+Pyrocite,파이로사이트
+"The most precious resource of our time. This highly unstable ore has been useless until recently. Now, we can harness its explosive power.",우리 시대의 가장 귀한 자원. 굉장히 불안정한 이 광물은 최근까지는 쓸모가 없었습니다. 이제는 그 폭발적인 위력을 다룰 수 있게 됐습니다.
+Horses,말
+Specially-bred war horses large and brave enough to enter the flames of battle.,"전투의 불길 속으로 뛰어들 만큼 용맹하고 덩치가 큰, 특별한 목적으로 사육한 전투용 말."
+Tech Points,테크 포인트
+Donari Chronicle,도나리교 연대기
+"Used by Squad Leaders only to simulate defeating an enemy squad of 6 equal level units,
+granting XP and CP, as well as LDR and Loyalty progress to the whole squad.","부대장만 사용합니다. 6개의 같은 레벨의 동일한 유닛으로 구성된 적 부대를 물리친 것으로 간주하여, 
+같은 부대원 전원에게 XP와 CP, 통솔력과 충성도를 부여합니다."
+Mint Leaves of Magic,마법의 민트 잎
+Used to increase a Unit's MAG by a small amount.,유닛의 마력을 소량 증가시키는 데 사용합니다.
+Roast Beef of Might,힘의 로스트 비프
+Used to increase a Unit's STR by a small amount.,유닛의 힘을 소량 증가시키는 데 사용합니다.
+Apple of Agility,민첩성의 사과
+Used to increase a Unit's SKL by a small amount.,유닛의 재주를 소량 증가시키는 데 사용합니다.
+Salmon of Health,체력의 연어
+Used to increase a Unit's MaxHP by a small amount.,유닛의 최대 체력을 소량 증가시키는 데 사용합니다.
+Medal of Valor,용맹의 메달
+"Increase a unit's LDR by +3 up to 50, +2 up to 60, +1 up to 70, cannot be used on a Unit with 70+ LDR.","유닛의 통솔력을 50까지 +3, 60까지 +2, 70까지 +1 올려주며, 70+ 통솔력의 유닛에게는 사용할 수 없습니다."
+Affinity: Earth,속성: 흙
+"Change a unit's Affinity to Earth. Stats will change retroactively. ++HP, -SKL","유닛의 속성을 흙 속성으로 변경시킵니다. 유닛의 능력치 또한 소급하여 변합니다.
+++체력, -재주"
+Affinity: Water,속성: 물
+"Change a unit's Affinity to Water. Stats will change retroactively. +HP, -STR, -SKL, + MAG","유닛의 속성을 물 속성으로 변경시킵니다. 유닛의 능력치 또한 소급하여 변합니다.
++체력, -힘, -재주, + 마력"
+Affinity: Lightning,속성: 번개
+"Change a unit's Affinity to Lightning. Stats will change retroactively. -HP, +STR, +SKL, -Loyalty","유닛의 속성을 번개 속성으로 변경시킵니다. 유닛의 능력치 또한 소급하여 변합니다.
+-체력, +힘, +재주, -충성심"
+Affinity: Fire,속성: 불
+"Change a unit's Affinity to Fire. Stats will change retroactively. +STR, -MAG, +Loyalty","유닛의 속성을 불 속성으로 변경시킵니다. 유닛의 능력치 또한 소급하여 변합니다.
++힘, -마력, +충성심"
+Affinity: Dark,속성: 어둠
+"Change a unit's Affinity to Dark. Stats will change retroactively. ++STR, ++MAG, --LDR, --Loyalty","유닛의 속성을 어둠 속성으로 변경시킵니다. 유닛의 능력치 또한 소급하여 변합니다.
+++힘, ++마력, --통솔력, --충성심"
+Affinity: Light,속성: 빛
+"Change a unit's Affinity to Light. Stats will change retroactively. ++LDR, ++Loyalty","유닛의 속성을 빛 속성으로 변경시킵니다. 유닛의 능력치 또한 소급하여 변합니다.
+++통솔력, ++충성심"
+Trait: Scavenger,특성: 시체 청소부
+Teach trait to a unit.,유닛에게 특성을 가르칩니다.
+Trait: Garrison,특성: 수비대
+Trait: Bodyguard,특성: 호위병
+Trait: Vengeance,특성: 복수
+Trait: Overpower,특성: 압도
+Trait: Imposing,특성: 위엄
+Trait: Unassuming,특성: 겸손
+Trait: Resolve,특성: 단호
+Trait: Unscathed,특성: 다치지 않음
+Trait: Precision,특성: 정확
+Trait: Assassin's Heart,특성: 암살자의 심장
+Trait: Archer Captain,특성: 궁수 부대장
+Trait: Soldier Captain,특성: 보병 부대장
+Trait: Knight Captain,특성: 기사 부대장
+Trait: Concentration,특성: 집중
+Trait: Disarm,특성: 무장 해제
+Trait: Lithe Assault,특성: 유연한 공격
+Trait: Assassin's Reaper,특성: 암살자의 사신
+Trait: Bowmanship,특성: 궁술
+Trait: Dragonslayer,특성: 용살자
+Trait: Warrior's Hubris,특성: 전사의 자만심
+Trait: Challenger,특성: 도전자
+Trait: Executioner,특성: 처형자
+Trait: Healing Attuned,특성: 치유 동조
+Trait: Cold-Blooded,특성: 냉혈한
+Trait: Beacon,특성: 등불
+Trait: Arcane Barrier,특성: 비전 배리어
+Trait: Arcane Might,특성: 비전 힘
+Trait: Arcane Speed,특성: 비전 속도
+Trait: Arcane Vigor,특성: 비전 활력
+Trait: Counterattack,특성: 반격
+Trait: Desperation,특성: 절박함
+Trait: Immortal Spirit,특성: 불굴의 정신
+Trait: Smite,특성: 강타
+Trait: Shock and Awe,특성: 충격과 공포
+Trait: Bloodlust,특성: 블러드러스트
+Trait: Silver-Tongued,특성: 유창함
+Trait: Treasure Hunter,특성: 보물 사냥꾼
+Trait: Tundra Warrior,특성: 툰드라 전사
+Trait: Desert Warrior,특성: 사막 전사
+"""This battlefield, suspended in the clouds is reserved for all the fiercest and most celebrated warriors.""",구름 속에 떠 있는 이 전장은 가장 용맹하고 유명한 전사들을 위한 곳이다.
+Mark of the Risen,부활한 자의 가면
+Use on any Tier 3 Mage or Support Unit to class change them to a Necromancer.,모든 티어 3 마법사 또는 지원가 유닛에게 사용하여 사령술사 병과로 변경할 수 있습니다.
+Defiled Donari Tome,더럽혀진 도나리교 경전
+Use on any Tier 3 Mage or Support Unit to class change them to a Dark Mage.,모든 티어 3 마법사 또는 지원가 유닛에게 사용하여 암흑법사 병과로 변경할 수 있습니다.
+Trait: Benevolent,특성: 자애로움
+Trait: Liberator,특성: 해방자
+Trait: Rally,특성: 집결
+Trait: Barricade,특성: 바리케이드
+Trait: Pacifist,특성: 평화주의자
+Trait: Wide Guard,특성: 광역 보호
+Trait: Raid Captain,특성: 경보병 부대장
+Book of Unlife,불사의 서
+Use during Squad Organize to summon a persistent Risen.,분대 관리에서 사용하여 끈질긴 부활한 자를 소환할 수 있습니다.
+Blank Tome,비어있는 책
+Copy a Learned Trait,이미 습득한 특성을 복사합니다.

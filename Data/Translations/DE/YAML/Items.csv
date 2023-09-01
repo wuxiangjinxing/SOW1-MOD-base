@@ -1,0 +1,116 @@
+ENGLISH,GERMAN
+XP Codex,EP-Kodex
+Used to instantly level up any Unit in your Army. Can only be used on a Unit with a lower level than your highest leveled Unit.,"Wird verwendet, um jegliche Einheit im deiner Armee aufzuleveln. Kann nicht bei deiner Einheit mit dem höchsten Level eingesetzt werden."
+CP Codex,KP-Kodex
+Used to increase the Class Mastery of the current Class of any Unit in your Army by 500.,"Wird verwendet, um die Klassenmeisterung der aktuellen Klasse jeglicher Einheit in deiner Armee um 500 zu erhöhen."
+Bronze Arena Token,Arenamarke (Bronze)
+"""The Imperial Academy has not sanctioned these gladitorial games, but is happy to recruit its victors.""","„Die kaiserliche Akademie hat diese Gladiatorenkämpfe zwar nicht genehmigt, jedoch rekrutieren sie gern jeden ihrer Besucher.“"
+Silver Arena Token,Arenamarke (Silber)
+"""The Emborian Tundra is vast and harsh, and forges much more resilient warriors.""",„Die emborische Tundra ist ungeheuer groß und rau. Aus ihr gehen deutlich robustere Krieger hervor.“
+Gold Arena Token,Arenamarke (Gold)
+"""In the deserts of Sayunaa lies a fortress hidden in the cliffs. A location soaked with the blood of many generations of gladiators.""",„In den Wüsten Sayunaas liegt eine Festung in den Klippen verborgen. Sie ist mit dem Blut vieler Generationen von Gladiatoren durchtränkt.“
+Platinum Arena Token,Arenamarke (Platin)
+Proof of Merit,Verdienstnachweis
+Use on a Tier 3 unit with maxed CP to upgrade them to a gold version of their current class. Will no longer be able to class change.,Wertet eine Einheit der Stufe drei mit vollen KP auf eine goldene Version ihrer aktuellen Klasse auf. Diese kann dann ihre Klasse nicht mehr ändern.
+Iron,Eisen
+"This common resource is a staple of any army, and is used to create steel equipment. ",Diese weit verbreitete Ressource wird in jeder Armee benötigt. Außerdem wird sie zur Fertigung von Stahlausrüstung eingesetzt. 
+Obsidian,Obsidian
+"An exotic, dense, super-tensile material master blacksmiths can use to greatly augment steel equipment. While weapons become slightly heavier, they become much more deadly.","Ein dichtes und dehnbares Material, mit dem Meisterschmiede Stahlausrüstung enorm verstärken können. Waffen werden dadurch zwar etwas schwerer, aber auch viel tödlicher."
+Sunstone,Sonnensteine
+A rare and precious stone that exhibits the unique ability to focus and enhance healing and Light magics.,"Seltene und wertvolle Steine, die die einmalige Fähigkeit aufweisen, Heilungs- und Lichtmagie zu bündeln und zu verbessern."
+Gems,Edelsteine
+Somewhat commonly-found gemstones that are required in most magicraft.,Diese relativ häufig vorkommenden Edelsteine werden für die meisten Zauberkünste benötigt.
+Pyrocite,Pyrozit
+"The most precious resource of our time. This highly unstable ore has been useless until recently. Now, we can harness its explosive power.",Die kostbarste Ressource unserer Zeit. Dieses äußerst instabile Erz war vor Kurzem noch völlig nutzlos. Jetzt können wir seine Sprengkraft jedoch nutzen.
+Horses,Pferde
+Specially-bred war horses large and brave enough to enter the flames of battle.,"Diese speziell gezüchteten Kriegspferde sind groß und mutig genug, um den Flammen des Krieges zu trotzen."
+Tech Points,Technologiepunkte
+Donari Chronicle,Donari-Chronik
+"Used by Squad Leaders only to simulate defeating an enemy squad of 6 equal level units,
+granting XP and CP, as well as LDR and Loyalty progress to the whole squad.","Truppanführer können hiermit simulieren, wie sie einen feindlichen Trupp aus sechs Einheiten des gleichen Levels besiegen.
+Dabei wird dem Trupp EP, KP, FÜH und Treue gewährt."
+Mint Leaves of Magic,Minzblätter der Magie
+Used to increase a Unit's MAG by a small amount.,"Wird verwendet, um die MAG einer Einheit um eine kleine Menge zu erhöhen."
+Roast Beef of Might,Rinderbraten der Kraft
+Used to increase a Unit's STR by a small amount.,"Wird verwendet, um die STÄ einer Einheit um eine kleine Menge zu erhöhen."
+Apple of Agility,Apfel der Gewandtheit
+Used to increase a Unit's SKL by a small amount.,"Wird verwendet, um die FER einer Einheit um eine kleine Menge zu erhöhen."
+Salmon of Health,Lachs der Heilung
+Used to increase a Unit's MaxHP by a small amount.,"Wird verwendet, um die Max. LP einer Einheit um eine kleine Menge zu erhöhen."
+Medal of Valor,Tapferkeitsmedaille
+"Increase a unit's LDR by +3 up to 50, +2 up to 60, +1 up to 70, cannot be used on a Unit with 70+ LDR.","Erhöht die FÜH einer Einheit mit bis zu 50 um +3, mit bis zu 60 um +2 und mit bis zu 70 um +1. Kann nicht bei Einheiten mit 70 oder mehr FÜH eingesetzt werden."
+Affinity: Earth,Affinität: Erde
+"Change a unit's Affinity to Earth. Stats will change retroactively. ++HP, -SKL","Ändert die Affinität einer Einheit zu Erde. Die Werte ändern sich rückwirkend.
+++LP, -FER"
+Affinity: Water,Affinität: Wasser
+"Change a unit's Affinity to Water. Stats will change retroactively. +HP, -STR, -SKL, + MAG","Ändert die Affinität einer Einheit zu Wasser. Die Werte ändern sich rückwirkend.
++LP, -STÄ, -FER, +MAG"
+Affinity: Lightning,Affinität: Blitz
+"Change a unit's Affinity to Lightning. Stats will change retroactively. -HP, +STR, +SKL, -Loyalty","Ändert die Affinität einer Einheit zu Blitz. Die Werte ändern sich rückwirkend.
+-LP, +STÄ, +FER, -Treue"
+Affinity: Fire,Affinität: Feuer
+"Change a unit's Affinity to Fire. Stats will change retroactively. +STR, -MAG, +Loyalty","Ändert die Affinität einer Einheit zu Feuer. Die Werte ändern sich rückwirkend.
++STÄ, -MAG, +Treue"
+Affinity: Dark,Affinität: Schatten
+"Change a unit's Affinity to Dark. Stats will change retroactively. ++STR, ++MAG, --LDR, --Loyalty","Ändert die Affinität einer Einheit zu Schatten. Die Werte ändern sich rückwirkend.
+++STÄ, ++MAG, --FÜH, --Treue"
+Affinity: Light,Affinität: Licht
+"Change a unit's Affinity to Light. Stats will change retroactively. ++LDR, ++Loyalty","Ändert die Affinität einer Einheit zu Licht. Die Werte ändern sich rückwirkend.
+++FÜH, ++Treue"
+Trait: Scavenger,Eigenschaft: Plünderer
+Teach trait to a unit.,Bringt einer Einheit eine Eigenschaft bei.
+Trait: Garrison,Eigenschaft: Garnison
+Trait: Bodyguard,Eigenschaft: Leibwächter
+Trait: Vengeance,Eigenschaft: Vergeltung
+Trait: Overpower,Eigenschaft: Überwältigen
+Trait: Imposing,Eigenschaft: Imposant
+Trait: Unassuming,Eigenschaft: Bescheiden
+Trait: Resolve,Eigenschaft: Entschlossen
+Trait: Unscathed,Eigenschaft: Unversehrt
+Trait: Precision,Eigenschaft: Präzision
+Trait: Assassin's Heart,Eigenschaft: Assassinenherz
+Trait: Archer Captain,Eigenschaft: Schützenhauptmann
+Trait: Soldier Captain,Eigenschaft: Soldatenhauptmann
+Trait: Knight Captain,Eigenschaft: Ritterhauptmann
+Trait: Concentration,Eigenschaft: Konzentration
+Trait: Disarm,Eigenschaft: Entwaffnen
+Trait: Lithe Assault,Eigenschaft: Graziler Angriff
+Trait: Assassin's Reaper,Eigenschaft: Assassinenschnitter
+Trait: Bowmanship,Eigenschaft: Bogenkunst
+Trait: Dragonslayer,Eigenschaft: Drachentöter
+Trait: Warrior's Hubris,Eigenschaft: Hybris des Kriegers
+Trait: Challenger,Eigenschaft: Herausforderer
+Trait: Executioner,Eigenschaft: Henker
+Trait: Healing Attuned,Eigenschaft: Heilende Hände
+Trait: Cold-Blooded,Eigenschaft: Kaltblütig
+Trait: Beacon,Eigenschaft: Fanal
+Trait: Arcane Barrier,Eigenschaft: Arkane Barriere
+Trait: Arcane Might,Eigenschaft: Arkane Macht
+Trait: Arcane Speed,Eigenschaft: Arkanes Tempo
+Trait: Arcane Vigor,Eigenschaft: Arkaner Elan
+Trait: Counterattack,Eigenschaft: Gegenangriff
+Trait: Desperation,Eigenschaft: Verzweiflung
+Trait: Immortal Spirit,Eigenschaft: Unsterblicher Geist
+Trait: Smite,Eigenschaft: Zerschmettern
+Trait: Shock and Awe,Eigenschaft: Schock
+Trait: Bloodlust,Eigenschaft: Blutrausch
+Trait: Silver-Tongued,Eigenschaft: Eloquent
+Trait: Treasure Hunter,Eigenschaft: Schatzjäger
+Trait: Tundra Warrior,Eigenschaft: Tundrakrieger
+Trait: Desert Warrior,Eigenschaft: Wüstenkrieger
+"""This battlefield, suspended in the clouds is reserved for all the fiercest and most celebrated warriors.""",„Dieses Schlachtfeld mitten in den Wolken ist nur den wildesten und ruhmreichsten Kriegern vorbehalten.“
+Mark of the Risen,Zeichen der Erweckten
+Use on any Tier 3 Mage or Support Unit to class change them to a Necromancer.,Ändert Magier oder Unterstützungseinheiten der Stufe 3 zur Nekromantenklasse.
+Defiled Donari Tome,Entweihter Donari-Foliant
+Use on any Tier 3 Mage or Support Unit to class change them to a Dark Mage.,Ändert Magier oder Unterstützungseinheiten der Stufe 3 zur Schattenmagierklasse.
+Trait: Benevolent,Eigenschaft: Gütig
+Trait: Liberator,Eigenschaft: Befreier
+Trait: Rally,Eigenschaft: Sammeln
+Trait: Barricade,Eigenschaft: Barrikade
+Trait: Pacifist,Eigenschaft: Pazifist
+Trait: Wide Guard,Eigenschaft: Schutzwehr
+Trait: Raid Captain,Eigenschaft: Plünderer-Hauptmann
+Book of Unlife,Buch des Jenseits
+Use during Squad Organize to summon a persistent Risen.,"Während der Trupp-Bearbeitung verwenden, um einen beständigen Erweckten zu beschwören."
+Blank Tome,Leerer Foliant
+Copy a Learned Trait,Eine Erlernte Eigenschaft kopieren

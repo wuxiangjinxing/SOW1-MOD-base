@@ -1,0 +1,148 @@
+New Game,ニューゲーム
+Load QuickSave,クイックセーブをロード
+Load Game,続きから
+Options,オプション
+Join Discord,Discordに参加
+Shutdown,ゲーム終了
+Deploy,進軍
+Organize Army,部隊編成
+Tech Tree,技術ツリー
+Marketplace,市場
+Tutorials and Info,チュートリアルと情報
+Supports,サポート
+Arena,闘技場
+Arena/Extras,闘技場/追加要素
+System,システム
+Bronze Arena,ブロンズ闘技場
+Silver Arena,シルバー闘技場
+Gold Arena,ゴールド闘技場
+Platinum Arena,プラチナ闘技場
+Save Game,セーブ
+Reload,再ロード
+To Title,タイトルへ戻る
+Main Volume,メイン音量
+Music Volume,BGM音量
+SFX Volume,エフェクト音量
+Voice Volume,ボイス音量
+Tutorials,チュートリアル
+Instant Text,瞬間表示
+Mouse,マウス
+Tactical Grid,グリッド表示
+Permadeath,永久死亡
+Animation Speed,アニメーションスピード
+Show Combats,戦闘表示
+Screen Size,スクリーンサイズ
+Restore Defaults,デフォルトに戻す
+Return to Game,ゲームに戻る
+Exit Game/Return to Title,ゲーム終了/タイトルへ戻る
+Yes,はい
+No,いいえ
+Exit Game,ゲーム終了
+Cancel,キャンセル
+Squad Operations,部隊を編集
+Disband Squad,部隊を解散
+Form New Squad,新部隊を結成
+Reorder Squads,部隊を並び替え
+Unit Status,ユニットステータス
+Use Item,アイテム使用
+Change Class,クラスチェンジ
+Dismiss Unit,ユニット解雇
+Exit,完了
+Recruit,雇う
+Trader,アイテム購入
+Sell Items,アイテム売却
+Exchange,交換
+Relationships,関係
+Conversations,会話
+Archives,アーカイブ
+Begin Mission,ミッション開始
+Mission Info,ミッション情報
+Organize,部隊編成
+Retreat,撤退
+Squad Status,部隊ステータス
+Remove Squad,部隊を外す
+Replace Squad,部隊を入れ替え
+Edit Squad,部隊を編集
+Wait,待機
+Treasure,宝箱
+Status,ステータス
+End Turn,ターン終了
+Squad List,部隊リスト
+Hover Paths Disabled,移動範囲非表示
+Powers,ネフィリムの力
+Tutorial,チュートリアル
+Showing: Hover Only,表示:移動範囲のみ
+Language,言語
+Move Unit,ユニットを移動
+Add Unit,ユニットを追加
+Remove Unit,ユニットを外す
+Artifacts,装備
+Clear Squad,部隊を空に
+Continue Main Story,メインストーリーに進む
+Gaiden Chapter A: Unrelenting Ambition,外伝A章:蛮勇
+Gaiden Chapter B: Dragon's Haven,外伝B章:竜の隠れ里
+Gaiden Chapter C: No Mercy for the Merciful,外伝C章:慈悲深き者への無慈悲
+Gaiden Chapter D: Clockwork City,外伝D章:産業都市
+Gaiden Chapter E: Ishtar's Lament,外伝E章:イシュタルの嘆き
+QuickSave,クイックセーブ
+QuickLoad,クイックロード
+Load,ロード
+Redo Turn,ターンをやり直し
+Restart,やり直し
+Exit Game/Title,ゲーム終了/タイトル
+Meteor,隕石
+Teleport,転送
+Exemplar,堅守
+Terror,恐怖
+Blessing,祝福
+Showing: Enemy Move,表示:敵攻撃範囲
+Showing: Ambush Tiles,表示:奇襲マス
+Showing: Charge Tiles,表示:突撃マス
+Attack,攻撃
+\M[tactic_normal.png]Normal Attack,\M[tactic_normal.png]通常攻撃
+\M[tactic_forcesurrender.png]Force Surrender,\M[tactic_forcesurrender.png]強制降伏
+\M[tactic_leader.png]Target Leader,\M[tactic_leader.png]リーダー狙い
+\M[tactic_aggressive.png]Aggressive,\M[tactic_aggressive.png]大暴れ
+\M[tactic_cautious.png]Cautious,\M[tactic_cautious.png]慎重
+Heal,回復
+Heal/Revive,回復/復活
+Revive,復活
+Start Game,ゲーム開始
+Shop,取引
+Refresh Heals,回復回数更新
+Move,移動
+Seize,占領
+Activate,起動
+Shuffle,位置交換
+Tactics,戦略
+Depart,出発
+Armory,武器庫
+Demote,降格
+Promote,昇格
+Formation,陣形
+All,すべて
+Rename,名前変更
+Title Screen,タイトル画面
+Bronze,銅
+Silver,銀
+Gold,金
+Platinum,プラチナ
+Requires:,必要なもの:
+Rename Scroll,改名の巻物
+Resources Used:,必要資源:
+Form Squad,部隊結成
+Enable Tutorials,チュートリアル有効
+"Enable ""Permadeath""",永久死亡有効
+Skip All,すべてスキップ
+Return to Base,基地に戻る
+Restart Mission,ミッションをやり直す
+Load Save,セーブデータをロード
+Return to Title,タイトルへ戻る
+Save/Load,セーブ/ロード
+Select Squads,部隊選択
+Dismiss,解雇
+Skip Chapter,章をスキップ
+Classic Portraits,旧ポートレート
+High-Res Font,高解像度フォント
+Map Sprite,マップ上アイコン
+Legends Chapters,伝説の章

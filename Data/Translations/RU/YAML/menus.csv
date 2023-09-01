@@ -1,0 +1,148 @@
+New Game,Новая игра
+Load QuickSave,Загрузить быстр. сохран.
+Load Game,Загрузить игру
+Options,Настройки
+Join Discord,Discord
+Shutdown,Выкл.
+Deploy,Развернуть войско
+Organize Army,Управление армией
+Tech Tree,Дерево развития
+Marketplace,Рынок
+Tutorials and Info,Обучение и информация
+Supports,Спутники
+Arena,Арена
+Arena/Extras,Арена/Дополнительно
+System,Система
+Bronze Arena,Бронз. арена
+Silver Arena,Сереб. арена
+Gold Arena,Золотая арена
+Platinum Arena,Платин. арена
+Save Game,Сохранить игру
+Reload,Перезагрузить
+To Title,В меню
+Main Volume,Общая громкость
+Music Volume,Громкость музыки
+SFX Volume,Громкость эффектов
+Voice Volume,Громкость голосов
+Tutorials,Обучение
+Instant Text,Весь текст сразу
+Mouse,Мышь
+Tactical Grid,Тактическая сетка
+Permadeath,Перманентная смерть
+Animation Speed,Скорость анимации
+Show Combats,Показывать бои
+Screen Size,Размер экрана
+Restore Defaults,Настройки по умолчанию
+Return to Game,Вернуться к игре
+Exit Game/Return to Title,Выход из игры/Обратно в меню
+Yes,Да
+No,Нет
+Exit Game,Выйти из игры
+Cancel,Отмена
+Squad Operations,Управление отрядами
+Disband Squad,Распустить отряд
+Form New Squad,Создать новый отряд
+Reorder Squads,Переместить отряды
+Unit Status,Статус юнита
+Use Item,Использовать предмет
+Change Class,Сменить класс
+Dismiss Unit,Уволить юнит
+Exit,Выход
+Recruit,Найм
+Trader,Торговец
+Sell Items,Продать предметы
+Exchange,Обмен
+Relationships,Отношения
+Conversations,Беседы
+Archives,Архивы
+Begin Mission,Начать миссию
+Mission Info,Цели миссии
+Organize,Армия
+Retreat,Отступить
+Squad Status,Статус отряда
+Remove Squad,Убрать отряд
+Replace Squad,Заменить отряд
+Edit Squad,Редактировать отряд
+Wait,Ждать
+Treasure,Взять сокровище
+Status,Статус
+End Turn,Завершить ход
+Squad List,Список отрядов
+Hover Paths Disabled,Подсказки местности выключены
+Powers,Умения
+Tutorial,Обучение
+Showing: Hover Only,Отобразить дальность хода
+Language,Язык
+Move Unit,Переместить юнит
+Add Unit,Добавить юнит
+Remove Unit,Исключить юнит
+Artifacts,Артефакты
+Clear Squad,Очистить отряд
+Continue Main Story,Продолжить основной сюжет
+Gaiden Chapter A: Unrelenting Ambition,"Гайден, глава А: Ненасытные амбиции"
+Gaiden Chapter B: Dragon's Haven,"Гайден, глава B: Убежище дракона"
+Gaiden Chapter C: No Mercy for the Merciful,"Гайден, глава C: Милосердие не останется безнаказанным"
+Gaiden Chapter D: Clockwork City,"Гайден, глава D: Механический город"
+Gaiden Chapter E: Ishtar's Lament,"Гайден, глава E: Плач Иштар"
+QuickSave,Быстрое сохранение
+QuickLoad,Быстрая загрузка
+Load,Загрузить
+Redo Turn,Ход заново
+Restart,Перезапуск
+Exit Game/Title,Выход из игры/Меню
+Meteor,Метеор
+Teleport,Телепорт
+Exemplar,Экземплар
+Terror,Ужас
+Blessing,Благословение
+Showing: Enemy Move,Отображение дальности хода врагов
+Showing: Ambush Tiles,Отображение клеток засады
+Showing: Charge Tiles,Отображение клеток разгона
+Attack,Атака
+\M[tactic_normal.png]Normal Attack,\M[tactic_normal.png]Обычная атака
+\M[tactic_forcesurrender.png]Force Surrender,\M[tactic_forcesurrender.png]Принуждение к сдаче
+\M[tactic_leader.png]Target Leader,\M[tactic_leader.png]Устранить лидера
+\M[tactic_aggressive.png]Aggressive,\M[tactic_aggressive.png]Агрессивная
+\M[tactic_cautious.png]Cautious,\M[tactic_cautious.png]Осторожная
+Heal,Лечение
+Heal/Revive,Лечение/Воскрешение
+Revive,Воскрешение
+Start Game,Начать игру
+Shop,Магазин
+Refresh Heals,Восстановить заряды лечения
+Move,Движение
+Seize,Захват
+Activate,Активация
+Shuffle,Рокировка
+Tactics,Тактика
+Depart,Отправление
+Armory,Арсенал
+Demote,Понизить
+Promote,Повысить
+Formation,Формация
+All,Все
+Rename,Переименовать
+Title Screen,Главное меню
+Bronze,Бронза
+Silver,Серебро
+Gold,Золото
+Platinum,Платина
+Requires:,Требования:
+Rename Scroll,Свиток переименования
+Resources Used:,Ресурсов использовано:
+Form Squad,Сформировать отряд
+Enable Tutorials,Включить обучение
+"Enable ""Permadeath""",Включить «Перманентную смерть»
+Skip All,Пропустить все
+Return to Base,Вернуться на базу
+Restart Mission,Начать заново миссию
+Load Save,Загрузить сохранение
+Return to Title,Вернуться к игре
+Save/Load,Сохранить/Загрузить
+Select Squads,Выбор отрядов
+Dismiss,Уволить
+Skip Chapter,Пропустить главу
+Classic Portraits,Классические портреты
+High-Res Font,Чёткий шрифт
+Map Sprite,Предметы на карте
+Legends Chapters,Главы «Легенды»

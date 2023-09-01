@@ -1,0 +1,148 @@
+﻿New Game,新游戏
+Load QuickSave,加载快速存档
+Load Game,加载游戏
+Options,设置
+Join Discord,加入Discord
+Shutdown,退出游戏
+Deploy,出征
+Organize Army,管理军队
+Tech Tree,科技树
+Marketplace,市集
+Tutorials and Info,教程和信息
+Supports,社交
+Arena,竞技场
+Arena/Extras,竞技场/其他
+System,系统
+Bronze Arena,青铜竞技场
+Silver Arena,白银竞技场
+Gold Arena,黄金竞技场
+Platinum Arena,白金竞技场
+Save Game,保存游戏
+Reload,重新加载
+To Title,返回开始屏幕
+Main Volume,主音量
+Music Volume,音乐音量
+SFX Volume,音效音量
+Voice Volume,声音音量
+Tutorials,显示教程
+Instant Text,即时文本
+Mouse,使用鼠标
+Tactical Grid,战术格子
+Permadeath,永久死亡
+Animation Speed,动画速度
+Show Combats,显示拼杀
+Screen Size,屏幕大小
+Restore Defaults,恢复预设
+Return to Game,返回游戏
+Exit Game/Return to Title,退出游戏/返回开始屏幕
+Yes,是
+No,否
+Exit Game,退出游戏
+Cancel,取消
+Squad Operations,队伍管理
+Disband Squad,解散队伍
+Form New Squad,组建队伍
+Reorder Squads,排序队伍
+Unit Status,单位状态
+Use Item,使用道具
+Change Class,变更职业
+Dismiss Unit,解雇单位
+Exit,退出
+Recruit,招兵买马
+Trader,商品交易
+Sell Items,售卖物品
+Exchange,以物易物
+Relationships,关系
+Conversations,对话
+Archives,档案
+Begin Mission,开始任务
+Mission Info,任务信息
+Organize,管理
+Retreat,撤退
+Squad Status,队伍状态
+Remove Squad,移除队伍
+Replace Squad,替换队伍
+Edit Squad,编辑队伍
+Wait,等待
+Treasure,宝箱
+Status,状态
+End Turn,结束回合
+Squad List,队伍清单
+Hover Paths Disabled,悬停不显示路径
+Powers,力量
+Tutorial,教程
+Showing: Hover Only,显示：仅悬停
+Language,语言
+Move Unit,移动单位
+Add Unit,增加单位
+Remove Unit,移除单位
+Artifacts,神器
+Clear Squad,清空队伍
+Continue Main Story,继续主线故事
+Gaiden Chapter A: Unrelenting Ambition,外传一：宁折不屈
+Gaiden Chapter B: Dragon's Haven,外传二：龙之桃源
+Gaiden Chapter C: No Mercy for the Merciful,外传三：慈悲者的悲歌
+Gaiden Chapter D: Clockwork City,外传四：机关之城
+Gaiden Chapter E: Ishtar's Lament,外传五：伊什塔尔的挽歌
+QuickSave,快速存档
+QuickLoad,快速读档
+Load,读取存档
+Redo Turn,重置回合
+Restart,重新开始
+Exit Game/Title,退出游戏/菜单
+Meteor,流星
+Teleport,传送
+Exemplar,楷模
+Terror,恐惧
+Blessing,祝福
+Showing: Enemy Move,显示：敌人移动
+Showing: Ambush Tiles,显示：伏击格子
+Showing: Charge Tiles,显示：冲刺格子
+Attack,攻击
+\M[tactic_normal.png]Normal Attack,\M[tactic_normal.png]普通攻击
+\M[tactic_forcesurrender.png]Force Surrender,\M[tactic_forcesurrender.png]强迫投降
+\M[tactic_leader.png]Target Leader,\M[tactic_leader.png]集火队长
+\M[tactic_aggressive.png]Aggressive,\M[tactic_aggressive.png]冲锋陷阵
+\M[tactic_cautious.png]Cautious,\M[tactic_cautious.png]谨慎行事
+Heal,治疗
+Heal/Revive,治疗/复活
+Revive,复活
+Start Game,开始游戏
+Shop,商店
+Refresh Heals,刷新治疗
+Move,移动
+Seize,攻占
+Activate,激活
+Shuffle,换位
+Tactics,战术
+Depart,出发
+Armory,军械库
+Demote,降阶
+Promote,晋阶
+Formation,编队
+All,全部
+Rename,重命名
+Title Screen,开始屏幕
+Bronze,青铜
+Silver,白银
+Gold,黄金
+Platinum,白金
+Requires:,需要：
+Rename Scroll,重命名卷轴
+Resources Used:,使用资源：
+Form Squad,组建队伍
+Enable Tutorials,开启教程
+"Enable ""Permadeath""",开启“永久死亡”
+Skip All,全部跳过
+Return to Base,返回营地
+Restart Mission,重玩任务
+Load Save,读取存档
+Return to Title,返回开始屏幕
+Save/Load,存档/读取
+Select Squads,选择小队
+Dismiss,解散
+Skip Chapter,跳过章节
+Classic Portraits,经典肖像
+High-Res Font,高清字体
+Map Sprite,地图精灵
+Legends Chapters,传说章节

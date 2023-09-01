@@ -1,0 +1,192 @@
+MHP,最大HP
+M. HP,最大HP
+Weapon,武器
+Armor,装甲
+ARM,ARM
+STR,STR
+LDR,LDR
+MAG,MAG
+SKL,SKL
+CAP,CAP
+Leader,リーダー
+Difficulty,難易度
+Playtime,プレイ時間
+Cadet,兵卒
+Captain,隊長
+Warlord,軍師
+Enabled,有効
+Disabled,無効
+Permadeath,永久死亡
+Windowed,ウィンドウ
+Large,大
+Resolution,解像度
+Fullscreen,フルスクリーン
+Normal,普通
+Fast,高速
+Turbo,ターボ
+All,すべて
+Players,プレーヤー
+None,なし
+Reserve,予備
+Class,クラス
+Threat,脅威
+Name,名前
+Lv,Lv
+Affinity,属性
+HP,HP
+Known Traits,既知の特性
+Equipped Artifacts,装備品
+Resources Used,使用した資源
+Carried Resources,運んだ資源
+Traits,特性
+Selling,売却
+Buying,購入
+Rarity,レア度
+Common,普通
+Uncommon,ちょいレア
+Rare,レア
+Epic,エピック
+Legendary,レジェンド
+Sell Value,売値
+Original Value,元値
+Total Capacity,合計キャパシティ
+Cost,コスト
+Level,レベル
+Item Type,アイテムタイプ
+Total Stats,合計ステータス
+Deploy Limit,配置制限
+Save Game?,セーブしますか？
+(Outdated),（タイミング切れ）
+Squad,部隊
+Leader Traits,リーダー特性
+Capacity,キャパシティ
+Use Item,アイテム使用
+Requirements,必要なもの
+Current Class,現在のクラス
+Friends,友人
+Family,家族
+Bonded,絆
+No Relationships,関係なし
+Rewards,報酬
+Victory,勝利
+Defeat,敗北
+Challenge Missions,チャレンジミッション
+Morale,士気
+MORALE,士気
+Threat Rating,脅威レート
+Move,移動
+Deployed,配置済
+Scenario Results,戦果
+Objectives Captured,目標占領
+Turns Taken,ターン経過
+Key Squads Neutralized,主要部隊撃破
+Rank,ランク
+Target Turns,目標ターン
+Target Objectives Captured,目標占領
+Ally Squads Remaining,残りの味方部隊
+Target Squads Neutralized,目標部隊撃破
+Allied Squad Defeated,敗北した味方部隊
+Enemies Defeated,倒した敵
+Ally Losses,倒れた味方
+Bounty,報酬
+Surrenders,降伏数
+Home Base,本拠地
+Army,軍
+V.Low,超低
+Low,低
+Mid,中
+High,高
+V.High,超高
+MAX,MAX
+Light,光
+Dark,闇
+Earth,地
+Lightning,雷
+Water,水
+Fire,火
+Turn,ターン
+Loading...,ロード中...
+Free Action!,フリーアクション！
+Dodge!,回避！
+AutoSave,オートセーブ
+Purchased!,購入済！
+WINNER,勝利
+The other army is plotting...,思考中...
+Voluntary,降伏
+Surrender,成功
+Chance:,確率:
+Charge!,突撃！
+NO DATA,データなし
+No Data,データなし
+Requires,必要なもの
+[Character]'s Squad,[Character]の部隊
+XP,XP
+CP,CP
+Faction XP,勢力XP
+Light Infantry,軽装歩兵
+Light Cavalry,軽装騎兵
+Slow Infantry,低速歩兵
+Page,ページ
+Skip,スキップ
+Remaining Healers,残りのヒーラー
+Remaining Revivers,残りの復活ヒーラー
+Ludicrous,狂気
+Cycles,周回数
+Memory Fragments,記憶のかけら
+Clear Data,データ消去
+Turns Taken,ターン経過
+Kills,撃破数
+Surrenders,降伏数
+Defeats,死亡数
+Fresh Start,フレッシュ・スタート
+Head Start,ヘッド・スタート
+Prestige,名声
+Resources,資源
+Bounties,報酬
+Scarce,欠乏
+Standard,標準
+Abundant,潤沢
+Shop Prices,ショップ価格
+Low,低
+Medium,中
+High,高
+Game Rules,ゲームのルール
+Enemy Power,敵のパワー
+Challenges,チャレンジ
+Inexperienced Recruits,未熟な新兵
+Well-Equipped Enemies,装備の整った敵
+Enemy Scramble,敵のスクランブル
+Dawn of the Risen,不死者の夜明け
+Legends DLC Required,レジェンドDLCが必要
+Stalwart Enemies,頑丈な敵
+Tougher Bosses,より強いボス
+ZoC++,ZoC++
+Nerfilim,ネフィリムパワー弱体化
+Enemy Specialists,敵の達人
+Nature's Wrath,自然の怒り
+Veteran Enemies,熟練の敵
+Heroes' Memory,英雄の記憶
+Doppelgangers,ドッペルゲンガー
+Veteran Troops,熟練の部隊
+Refund Merits,返金の利点
+Refund Merit,返金の利点
+Early Powers,ネフィリムパワー早期取得
+Merchant Storeroom,商人の倉庫
+Sandbox Arena,砂の闘技場
+Replay Mission,ミッションのリプレイ
+Improved Mentorship,メンターシップの向上
+CP Growth,CPの成長
+??,??
+Locked,ロック状態
+Revive Costs,復活コスト
+Squad Capacity Penalty,部隊キャパシティ・ペナルティ
+Limited Exchange,交換の制限
+Enemy Advanced AI,敵AIの強化
+Enemy Cavalry Hit-And-Run,敵の騎兵のヒット・エンド・ラン
+Battle Healing Adjustment,戦闘時のヒーリングの調整
+Artifact Capacity Modifier,装備キャパシティ補正
+Damage Formula Rebalance,ダメージ計算式のバランス調整
+Magic Fatigue Modifier,魔法の疲労補正
+Smart Gunners,スマートガンナー
+Specalist,達人
+Start Game!,ゲーム開始！

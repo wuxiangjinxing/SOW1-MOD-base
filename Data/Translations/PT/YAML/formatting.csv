@@ -1,0 +1,108 @@
+Change to,Mudar para
+Demote to,Demover para
+Promote to,Promover para
+(Unit perma-death is suspended),(A morte permanente da unidade está suspensa)
+Start a new game with these settings?,Iniciar um novo jogo com estas configurações?
+Reload the base?\NEWLINEData will be restored to when you last entered or saved in the base.,Recarregar a base?\NEWLINEOs dados serão restaurados para a última vez que acessou ou salvou na base.
+Return to title?\NEWLINEAll unsaved progress will be lost.,Voltar à tela inicial?\NEWLINETodo o progresso não salvo será perdido.
+Are you sure you want to exit the game?\NEWLINEAll unsaved progress will be lost.,Quer mesmo sair do jogo?\NEWLINETodo o progresso não salvo será perdido.
+Select a difficulty,Selecione uma dificuldade
+Enable helpful hints throughout the game. Can be toggled in Options.,Ativa dicas úteis por todo o jogo. Pode ser ativado/desativado em Opções.
+Non-story characters incapacitated at the end of a mission are \NEWLINElost forever. Their resources will be refunded.,Personagens secundários incapacitados ao final de uma missão\NEWLINEsão perdidos para sempre. Seus recursos serão reembolsados.
+Begin the game,Começar o jogo
+Deploy to the this side mission?,Embarcar nesta missão secundária?
+"WARNING! After completing this chapter, the threads of time will be disrupted, and some side quests will no longer be available. \\LINEAre you sure?","AVISO! Após completar este capítulo, os fios do tempo serão partidos e algumas missões secundárias não estarão mais disponíveis. \\LINETem certeza?"
+Deploy to the next Mission?,Embarcar na próxima missão?
+Are you sure you want to exit?\NEWLINEAll unsaved progress will be lost.,Quer mesmo sair?\NEWLINETodo o progresso não salvo será perdido.
+Restore settings to default?,Restaurar a configurações para o padrão?
+"These two will be bound together, preventing any other such bonds.\NEWLINE Are you sure?","Esses dois formarão um vínculo, evitando qualquer outro vínculo.\NEWLINETem certeza?"
+Are you sure you want to sell this item?,Quer mesmo vender este item?
+Item will be unequipped and sold.,O item será desequipado e vendido.
+Are you sure you want to purchase this?,Quer mesmo comprar este item?
+Are you sure you want to hire this mercenary?,Quer mesmo contratar este mercenário?
+Are you sure you want to skip the cutscene?,Quer mesmo pular a animação?
+Are you sure you want to skip all cutscenes (until next gameplay)?,Quer mesmo pular todas as animações (até a próxima vez que jogar)?
+Are you sure you want to quicksave?\NEWLINEPrior Quicksave will be overwritten.,Quer mesmo salvar rapidamente?\NEWLINEO salvamento rápido anterior será substituído.
+Are you sure you want to load?\NEWLINEProgress will be reverted to last QuickSave.,Quer mesmo carregar?\NEWLINEO progresso será revertido para o último salvamento rápido.
+Are you sure you want to restart mission?\NEWLINEMission progress will be lost.,Quer mesmo reiniciar a missão?\NEWLINEO progresso da missão será perdido.
+Are you sure you want to return to base?\NEWLINEALL mission progress will be lost.,Quer mesmo voltar à base?\NEWLINETODO o progresso da missão será perdido.
+Are you sure you want to return to the beginning of the turn?\NEWLINEAll unsaved progress will be lost.,Quer mesmo voltar ao início do turno?\NEWLINETodo o progresso não salvo será perdido.
+Finish deploying and begin mission?,Encerrar implementação e iniciar missão?
+Retreat this squad to base?\NEWLINEThey will be unavailable until next turn.,Recuar este esquadrão para a base?\NEWLINEEle não ficará disponível até o próximo turno.
+Are you sure you want to revive?,Quer mesmo recuar?
+Are you sure you want to refresh all heal charges?,Quer mesmo recuperar todas as cargas de cura?
+Are you sure you want to restart mission and PERMANTENTLY reduce difficulty?\NEWLINENew difficulty:,Quer mesmo reiniciar a missão e reduzir PERMANENTEMENTE a dificuldade?\NEWLINENova dificuldade:
+Depart with the selected squads?\NEWLINEThe rest will find another way to survive.,Sair com os esquadrões selecionados?\NEWLINEO resto encontrará outra forma de sobreviver.
+Squads to join Diana's Army,Esquadrões a se unir ao Exército de Diana
+Not all squads have moved.,Nem todos os esquadrões se moveram.
+Are you sure you want to End Turn?,Quer mesmo acabar o turno?
+Form a new squad with this unit as leader?,Formar um novo esquadrão com esta unidade como líder?
+Are you sure you want to disband this squad?\NEWLINEAll Units will be returned to reserves.,Quer mesmo dispersar este esquadrão?\NEWLINETodas as unidades retornarão às reservas.
+Are you sure you want to clear this squad?\NEWLINEAll Units and artifacts will be removed from squad.,Quer mesmo remover este esquadrão?\NEWLINETodas as unidades e todos os artefatos serão removidos do esquadrão.
+Are you sure you want to remove this unit?\NEWLINE(Unit will be placed in reserves),Quer mesmo remover esta unidade?\NEWLINE(A unidade será colocada nas reservas)
+Are you sure you want to remove this unit?\NEWLINE(Squad will be disbanded),Quer mesmo remover esta unidade?\NEWLINE(O esquadrão será dispersado)
+Are you sure you want to dismiss this Unit?\NEWLINEThey will be gone for good!,Quer mesmo dispensar esta unidade?\NEWLINEEla será removida para sempre!
+Choose a trait to replace.,Escolha uma característica para substituir.
+Rename character to,Renomear personagem para
+Use item,Usar item
+WARNING! Golden classes can no longer class change.  Are you sure?,AVISO! Classes de ouro não podem mais mudar de classe.  Confirmar?
+"All player units take 50% less damage from all sources!\\PARGreat if you want to view the story! Still has the full game, but without the risk of defeat.","Todas as unidades do jogador recebem 50% menos dano de todas as origens!\\PARÓtimo se você deseja ver a história! O jogo ainda é completo, mas sem o risco de derrota."
+"Enemies are well-balanced, several key levels can be moderately challenging.\\PARGreat starting point for most players!","Inimigos são equilibrados, diversos níveis importantes podem ser moderadamente desafiadores.\\PARÓtimo ponto de partida para a maioria dos jogadores!"
+Enemy HP and attack power are increased!\\PARONLY for experienced players!\\LINEChoose at your own risk!,O PV do inimigo e o poder de ataque são aumentados!\\PARAPENAS para jogadores experientes!\\LINEEscolha por sua conta e risco!
+Locked.  Unlock #n# more Tier #t# techs to unlock.\NEWLINE,Bloqueado.  Desbloqueie #n# outras tecnologias Nível #t# para desbloquear.\NEWLINE
+Locked.  Unlock all techs from associated branches to unlock!\NEWLINE,Bloqueado.  Desbloqueie todas as tecnologias das ramificações associadas para desbloquear!\NEWLINE
+"Returns to the base last deployed from, in the state you were prior to deploying.",Retorna para a base do último desdobramento no estado antes do desdobramento.
+Loads the last QuickSave.,Carrega o último salvamento rápido.
+"Starts the mission over.  If there was a deploy phase, return to right before deploy was completed.","Recomeça a missão do início.  Se houve uma fase de desdobramento, retorna para antes de o desdobramento ter sido concluído."
+Starts the mission over and reduce the difficulty for the remainder of this playthrough.,Recomeça a missão e reduz a dificuldade a partir dali no jogo.
+Redo the turn from the start of the Player Phase.,Reinicia o turno do início da Fase do jogador.
+Load a file.,Carrega um arquivo.
+Return to the title screen.,Retorna à tela inicial.
+Are you sure you want to save? \NEWLINEAny existing data will be overwritten.,Quer mesmo salvar? \NEWLINEQualquer dados existentes serão sobrescritos.
+Are you sure you want to skip this chapter?,Quer mesmo pular o capítulo?
+"Enemies are smarter, braver, and more ruthless. Everything is far less forgiving.\\PARThe ultimate challenge for masterful commanders!","Os inimigos são mais inteligentes, corajosos e implacáveis. Tudo é muito menos facilitado.\\PARO desafio supremo para comandantes habilidosos!"
+Summons this new Risen unit into your reserves.,Evoca esta nova unidade Ressuscitada para suas reservas.
+Summons this new Risen unit into your squad.,Evoca esta nova unidade Ressuscitada para seu esquadrão.
+(visual only),(somente visual)
+"WARNING! This class cannot be demoted.	","ATENÇÃO! Esta classe não pode ser rebaixada.	"
+"Story characters from the previous playthrough will be available as non-story affecting ""copies"", but retain their unique class.","Os personagens da história da partida anterior estarão disponíveis como ""cópias"" que não afetam a história, mas manterão sua classe única."
+No units or items will from the previous run will be available. Playthrough options may still be selected.,Nenhuma unidade ou item da partida anterior estará disponível. As opções de jogo ainda podem ser selecionadas.
+Start the game at chapter 4 with some additional resources and Memory Fragments granted.,Comece o jogo no capítulo 4 com alguns recursos adicionais e Fragmentos de Memória concedidos.
+Units carried over from a previous playthrough will be reset to their initial class but have greatly increased XP and CP growth as well as a small stat boost.,"Unidades carregadas de uma partida anterior serão redefinidas para sua classe inicial, mas terão um aumento significativo de EXP e PC, além de um pequeno aumento de estatísticas."
+Adjust how many resources mines will grant.,Ajuste quantos recursos as minas concederão.
+Adjust how much gold Surrender bounties will grant.,Ajustar quanto de ouro as recompensas por rendição concederão.
+Adjusts the starting stats and stat scaling of enemies in the game. Does not affect ally (green) squads.,Ajusta as estatísticas iniciais e o escalonamento estatístico dos inimigos no jogo. Não afeta os esquadrões aliados (verdes).
+More battle experience will be required to advance Unit levels.,Será necessária mais experiência em batalha para avançar os níveis da Unidade.
+Enemy squads will be randomly equipped with artifacts.,Os esquadrões inimigos serão equipados aleatoriamente com artefatos.
+Certain enemy squad locations will be swapped.,As localizações de certos esquadrões inimigos serão trocadas.
+Enemies will have an increasing ability to command Risen as the playthrough progresses.,Os inimigos terão uma habilidade cada vez maior de comandar os Ressuscitados conforme o jogo avançar.
+Increases the starting morale of most enemies and makes them slightly more resistant to morale loss in combat.,Aumenta o moral inicial da maioria dos inimigos e os torna um pouco mais resistentes à perda de moral em combate.
+Boss squads become more resistant to all damage types,Os esquadrões de chefes se tornam mais resistentes a todos os tipos de dano.
+Increases the effect of Zones of Control for ALL squads.,Aumenta o efeito das Zonas de Controle para TODOS os esquadrões.
+Story characters' positive stat modifiers are reduced. Increases the charge time for Powers.,Os modificadores de status positivos dos personagens da história são reduzidos. Aumenta o tempo de carregamento para Poderes.
+Each enemy leader is granted a Specalist trait that increases their power in certain situations.,"Cada líder inimigo recebe uma característica de Especialista, que aumenta seu poder em determinadas situações."
+Increases the penalties associated with terrain and weather.,Aumenta as penalidades associadas ao terreno e ao clima.
+Enemies recieve an additional stat boost based on the number of previous playthroughs completed.,Inimigos recebem um aumento adicional de estatísticas baseado no número de partidas anteriores completadas.
+Story characters will retain certain properties from the previous playthrough upon rejoining.,Personagens da história manterão certas propriedades de partidas anteriores ao reingressar.
+"Non-unique, non-story characters will have their stat modifiers increased based on how many playthroughs they have survived.",Personagens que não são únicos nem parte do enredo terão um aumento nos seus modificadores de estatísticas dependendo de quantos jogos eles sobreviveram.
+All gilded troops from the previous run will lose their gilded status when carried over into the next playthrough. Cost to be reduced accordingly.,Todas as tropas douradas da jogada anterior perderão seu status dourado ao serem transferidas para a próxima partida. O custo será reduzido proporcionalmente.
+Are you sure you want to refund all merits?,Quer mesmo reembolsar todos os méritos?
+Makes this troop lose their gilded status. Cost to be reduced accordingly.,Faz esta tropa perder seu status dourado. Custo a ser reduzido proporcionalmente.
+All powers are unlocked from the start of the game.,Todos os poderes ficam desbloqueados desde o início do jogo.
+Shops will restock certain items on purchase with an ever-increasing cost. Cost increase will be reset upon shop refresh.,"As lojas reabastecerão certos itens após a compra, com um custo cada vez maior. O aumento do custo será zerado após a atualização da loja."
+"Arena can be played without a token, but no rewards will be granted in doing so. Arenas entered via token still grant normal rewards.","A Arena pode ser jogada sem uma ficha, mas nenhum prêmio será concedido ao fazê-lo. As arenas acessadas por meio de fichas ainda concedem recompensas normais."
+"Replay this mission. Missed objectives can be captured, but otherwise no additional rewards will be granted.","Repita esta missão. Objetivos perdidos podem ser capturados, mas, fora isso, nenhuma recompensa adicional será concedida."
+Non-leader Units no longer suffer a penalty to LDR growth.,Unidades não-líderes não sofrem mais uma penalidade no crescimento de LID.
+Adjust the overall rate of CP acquisition.,Ajusta a taxa geral de aquisição de PC.
+Cost to Revive at Donari Temple,Custo para reviver no Templo Donari
+Increased Unit Capacity cost past 5 Units in a Squad,Custo aumentado da Capacidade de Unidade além de 5 Unidades em um Esquadrão
+No Resource Exchange in Home Bases,Sem troca de recursos nas bases principais
+Enemies more clever and ruthless,Inimigos mais espertos e implacáveis
+Enemy Cavalry Squads can move after attacking,Esquadrões de cavalaria inimigos podem se mover após atacar
+In-Battle healing effect decreased,Efeito de cura em batalha reduzido
+Increased Artifact Capacity cost,Custo de capacidade de artefato aumentado
+Attack power scales more slowly as stats increase,O poder de ataque aumenta mais lentamente conforme as estatísticas aumentam
+Rate of decreased magic and healing efficacy with repeated use in the same Phase.,Taxa de eficácia reduzida de magia e cura com o uso repetido na mesma fase.
+Gunner volleys separated by row.,Rajadas de artilheiro separadas por fileira.
+Adjust shop prices.,Ajuste os preços da loja.
+Thank you for purchasing the Legends DLC! The New Game+ options on this page require a Clear Save to carry over your previous army. Clear Chapter 30 in the main quest and create a Clear Save after the ending credits to enable!,Obrigado por comprar o DLC Legends! As opções Novo jogo+ nesta página requer um Salvamento completo para usar seu exército anterior. Termine o Capítulo 30 da aventura principal e crie um Salvamento completo após os créditos de encerramento para ativá-las.
