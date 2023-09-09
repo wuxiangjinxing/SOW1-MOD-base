@@ -213,7 +213,7 @@ Your vast wealth,너의 막대한 부
 Your battle prowess,너의 전투 기술
 Your faith,너의 신앙
 "Allows us to access the Bronze Arena from Home Base, then the Token is consumed. The Bronze Arena takes place in a Temperate climate, offers a low challenge, and modest rewards.","기지에서 황동 투기장에 들어가게 해 준 다음, 토큰이 소모됩니다. 황동 투기장은 온화한 기후에서 열리며 난이도가 낮고 보상도 소소합니다."
-"Allows us to access the Silver Arena from Home Base, then the Token is consumed. The Silver Arena takes place in a Tundra climate, offers a medium challenge, and good rewards.","기지에서 순은 투기장에 들어가게 해 준 다음, 토큰이 소모됩니다. 순은 투기장은 툰드라 기후에서 열리며 난이도가 보통아고 좋은 보상이 주어집니다."
+"Allows us to access the Silver Arena from Home Base, then the Token is consumed. The Silver Arena takes place in a Tundra climate, offers a medium challenge, and good rewards.","기지에서 순은 투기장에 들어가게 해 준 다음, 토큰이 소모됩니다. 순은 투기장은 툰드라 기후에서 열리며 난이도가 보통이고 좋은 보상이 주어집니다."
 "Allows us to access the Gold Arena from Home Base, then the Token is consumed. The Gold Arena takes place in a Desert climate, offers a high challenge, and excellent rewards.","기지에서 황금 투기장에 들어가게 해 준 다음, 토큰이 소모됩니다. 황금 투기장은 사막 기후에서 열리며 난이도가 높고, 뛰어난 보상이 주어집니다."
 "Allows us to access the Platinum Arena from Home Base, then the Token is consumed. The Platinum Arena takes place in a Temperate climate, offers the greatest challenge, and incredible rewards.","기지에서 백금 투기장에 들어가게 해 준 다음, 토큰이 소모됩니다. 백금 투기장은 온화한 기후에서 열리며 난이도가 대단히 높고, 믿을 수 없는 보상이 주어집니다."
 "To embrace your destiny, and become who you are, is life's greatest purpose.",운명을 끌어안고 진정한 당신이 되는 것이 삶의 가장 큰 목적입니다.
@@ -570,7 +570,7 @@ Grants Heavy Infantry and Heavy Cavalry +25 Max HP for a cumulative effect of +5
 Obsidian Forging,흑요석 제련
 "Now that we have a grasp on the powerful and rare metal named Obsidian, we can use it to enhance our existing Steel Plate Armor, granting Heavy Infantry and Heavy Cavalry an additional +5 Armor.","이제 강력하고 희귀한 흑요석이란 금속을 손에 넣었으니, 이를 이용하여 기존의 강철 판금 갑옷을 강화할 수 있습니다. 중보병과 중기병이 추가 +5의 방어구를 얻습니다."
 Behemoth Leather Armor,베헤모스의 가죽 갑옷
-"Using hides from the fearsome Behemoth, we can further enhance our Light Armor. Light Infantry, Light Cavalry, Archers, and Firearms gain an additional +5 to Armor.","두려운 베헤모스의 가죽을 사용하여, 경갑옷을 더 강화할 수 있습니다. 경보병, 경기병, 궁수, 총병이 추가 +5의 방어구를 얻습니다."
+"Using hides from the fearsome Behemoth, we can further enhance our Light Armor. Light Infantry, Light Cavalry, Archers, and Firearms gain an additional +5 to Armor.","무시무시한 베헤모스의 가죽을 사용하여, 경갑옷을 더 강화할 수 있습니다. 경보병, 경기병, 궁수, 총병이 추가 +5의 방어구를 얻습니다."
 Mage Regiments,마도병 연대
 "All 'Magician' and 'Support' classes are now of the 'Normal' unit type rather than 'Slow', and Magician attacks decay in power more slowly when used consecutively.","모든 ‘마법사’와 ‘지원’ 병과가 이제 ‘느림’ 대신 ‘일반’ 유닛 유형이 되고, 마법사의 공격이 연속적으로 사용됐을 때 위력이 보다 천천히 떨어집니다."
 Magician's Initiative,마법사의 기선제압
@@ -652,7 +652,7 @@ Seize the Tidereaver Flagship,타이드리버 기함 점령
 Seize Greyden Slave Complex,그레이덴 노예 시설 점령
 Recruit the Barek Tor Mercenary,바렉 토르 용병 모집
 \\N[8] reaches Lemelin Monastery,\\N[8] 레멜린 대수도원 도착
-Lysander is not defeated in battle,라이샌더가 전투에서 패배
+Lysander is not defeated in battle,라이샌더가 전투에서 패배하지 않음
 No enemy squad attacks Lemelin Monastery,어떤 적 부대도 레멜린 대수도원을 공격하지 않습니다
 No more than 4 Isanter squads are defeated,4개 이하의 이산테르 부대가 패배함
 Defend Lemelin Monastery for 15 turns OR,15 턴 동안 레멜린 대수도원 방어 혹은
@@ -672,7 +672,7 @@ Survive against Casamir's army for 4 turns,4 턴 동안 카사미르의 군대�
 Survive against Casamir's army for 6 turns,6 턴 동안 카사미르의 군대에 대항하여 생존
 Defend Fort Eureeka OR,유리카 요새 방어 혹은
 Defeat Casamir's entire army,카사미르의 전군 격파
-The enemy captures Fort Eureeka,적이 낙소스 요새 점령
+The enemy captures Fort Eureeka,적이 유리카 요새 점령
 Seize Rimorgue and Stormrook,리모르그와 스톰루크 점령
 Hand of Zanatus is defeated in battle,자나투스의 손이 전투에서 패배
 Diana reaches the stairs to the dungeon,다이애나가 지하감옥의 계단에 도달
@@ -715,7 +715,7 @@ Seize Crestmoor,크레스트무어 점령
 The enemy captures Sandraka Front Base,적이 산드라카 전진 기지 점령
 Seize all Objectives,모든 목표물 점령
 Seize Greywind Shrine,그레이윈드 사당 점령
-Jules is not defeated in battle,줄스가 전투에서 패배
+Jules is not defeated in battle,줄스가 전투에서 패배하지 않음
 Survive for 6 turns OR,6 턴 동안 생존 혹은
 Seize all Mines,모든 광산 점령
 Seize Fort Dakur,다쿠르 요새 점령
@@ -992,7 +992,7 @@ Exit the game\NEWLINEUnsaved progress will be lost,게임 나가기\NEWLINE저�
 Restore settings to default,기본 설정 복구
 Set the battle speed,전투 속도 설정
 Toggle viewing battle scene,전투 장면 보기 켜기/끄기
-Non-story characters incapacitated after a mission are lost forever.\NEWLINETheir resources will be refunded.,"주,조연 등장인물이 아닌 캐릭터가 전투불능이 된 채로 미션이 종료될 시 영원히 사라집니다.\NEWLINE이 캐릭터들의 자원은 반환됩니다."
+Non-story characters incapacitated after a mission are lost forever.\NEWLINETheir resources will be refunded.,"주,조연 등장인물이 아닌 캐릭터가 전투불능이 된 채로 미션이 종료될 시 영원히 \NEWLINE사라집니다. 이 캐릭터들의 자원은 반환됩니다."
 "Enables passive XP, CP, and LDR growth for units that are far behind.\NEWLINEApplies to deployed squads for story missions, all units for Arena.","많이 뒤처진 유닛들의 패시브 XP, CP, 통솔력 성장이 활성화됩니다.\NEWLINE스토리 미션을 위해 배치된 부대, 투기장의 모든 유닛에 적용됩니다."
 Select from preset window size options,사전 설정 창 사이즈 옵션에서 선택하세요
 Allows the game client to be resized by using mouse.\NEWLINERequires Restart.,마우스를 사용하여 게임 클라이언트 사이즈 조정을 허용합니다.\NEWLINE재시작해야 합니다.
@@ -1085,7 +1085,7 @@ Survive for 20 turns,20턴 동안 생존
 OR Seize Ezrum,또는 에즈룸을 점령
 Antares is defeated in battle OR,안타레스가 전투에서 패배 혹은
 Fort Eureeka is seized by the enemy OR,적이 유리카 요새 점령 혹은
-Stormrook is seized by the enemy,적이 스톰룩 점령
+Stormrook is seized by the enemy,적이 스톰루크 점령
 Raskuja reaches the Treasure Vault,라스쿠자가 보물 금고에 도착
 Raskuja is defeated in battle,라스쿠자가 전투에서 패배
 Defeat all enemies,적 모두 격파
@@ -1176,24 +1176,24 @@ Every Unit in Squad will resist 1 status effect per combat,분대의 모든 유�
 Raid Captain,경보병 부대장
 -2 Capacity cost for Light Melee classes,경보병 병과의 보급 비용 -2
 "Magician class that attacks in a large area. Lowers effectiveness of heals, Mage and Dragon attacks.","넓은 영역을 공격하는 마법 병과. 치유, 마법 공격 그리고 용의 숨결 공격 효과를 떨어트립니다."
-Bow Specialist,활 전문가
+Bow Specalist,활 전문가
 Increased damage to support/mages at range,지원/마법사 병과를 원거리에서 공격시 피해 상승
-Armor Specialist,방어구 전문가
+Armor Specalist,방어구 전문가
 Reduces all incoming damage to the squad while on defense,방어시 분대에 가해지는 모든 피해를 감소시킴
-Spear Specialist,창 전문가
+Spear Specalist,창 전문가
 Enitre squad takes less damage and deals more damage to cavalry units,분대 전체가 피해를 적게 받고 기병 유닛에 피해를 더 많이 가함
-Anti-Magic Specialist,대마법 전문가
-Healer Specialist,치유자 전문가
+Anti-Magic Specalist,대마법 전문가
+Healer Specalist,치유자 전문가
 Squad recovers some HP at the beginning of player phase.,플레이어 턴 시작에 분대가 약간의 HP 회복
-Assassin Specialist,암살자 전문가
+Assassin Specalist,암살자 전문가
 Squad gains increased Critical Hit chance while on offense,공격시 분대의 치명타 확률 증가
-Bombardment Specialist,포격 전문가
+Bombardment Specalist,포격 전문가
 Squad's long range attacks are much less random,분대의 장거리 공격시 탄착지점의 무작위성이 크게 줄어듬
 Raid Specialist,경보병 전문가
 Entire squad gains a large boost to SKL while attacking from rough terrain,거친 지형에서 공격시 분대 전체의 재주 능력치가 큰 폭으로 증가함
 Rush Specialist,기동전 전문가
 Entire squad gains a bonus to SKL based on how far they moved this turn,이번 턴에 움직인 거리에 비례하여 분대 전체의 재주 능력치에 보너스가 적용됨
-Charge Specialist,돌격 전문가
+Charge Specalist,돌격 전문가
 Entire squad gains a damage bonus if the squad is charging,분대가 돌격중이라면 분대 전체에 공격 피해 보너스
 Save Clear Data?,클리어 데이터를 저장하시겠습니까?
 Reduces Magic damage taken,마법 피해를 적게 받습니다.
@@ -1212,7 +1212,7 @@ Abigayle - Diana: Lost to time,아비게일 - 다이애나: 흐름에 뒤쳐진
 Explore Raskuja's mercenary origins as part of a squad of ship-raiders.,"배 약탈자들로 한 때 활동했었던, 라스쿠자의 용병 시절을 탐험합니다."
 The eastern extremes of Embor define the outer edge of the Empire of Veridia. Duke Jaromir finds himself in a position to be Veridia's Bulwark against a terrifying new foe.,"엠보어 동부 끝자락은 베리디아 제국의 최외각 경계를 정의합니다. 야로미어 공작은 무시무시한 새로운 적을 맞아, 베리디아의 장벽이 되어 버텨내야 합니다."
 Duke Jaromir returns home to find that his battle with the undead menace is far from over.,"본성으로 복귀하던 야로미어 공작은, 언데드 위협과의 전투가 아직 끝나지 않았음을 깨닫게 됩니다."
-"Explore the origins of the powerful mage, Beatrix, as she infiltrates a secret facility operated by the Cult of Zanatus.","베아트릭스는 자나투스 광신도들이 운영하던 비밀 시설에 잠입해, 강력한 마법사인 그녀 자신의 기원을 살펴봅니다."
+"Explore the origins of the powerful mage, Beatrix, as she infiltrates a secret facility operated by the Cult of Zanatus.","베아트릭스는 자나투스 광신도들이 운영하던 비밀 시설에 잠입해, 강력한 마법사인 그녀 자신의 기원을 살펴봅니다.
 One does not simply become a master assassin for no reason. A Sayunaari prison complex holds the secrets to one man's destiny.,그 누구도 이유없이 암살단의 대장이 되지는 않습니다. 사유나의 감옥 시설은 한 남자의 운명에 대한 비밀을 간직하고 있습니다.
 Azuros has warned of a dire situation in the deserts of Sayunaa. The Nephilim Army hears the call to find a powerful Imperial army waiting.,"아주로스가 사유나 사막의 한복판에서 벌어지는 심각한 위기에 대해 경고합니다. 네필림 군대는 이에 응하고, 그곳에 먼저 와있던 강력한 제국군과 맞서게 됩니다."
 Damage bonus against Heavy Units.,중갑 유닛에 공격 피해 보너스

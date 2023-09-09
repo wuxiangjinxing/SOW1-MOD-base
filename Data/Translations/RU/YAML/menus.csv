@@ -3,7 +3,7 @@ Load QuickSave,Загрузить быстр. сохран.
 Load Game,Загрузить игру
 Options,Настройки
 Join Discord,Discord
-Shutdown,Выкл.
+Shutdown,Выйти из игры
 Deploy,Развернуть войско
 Organize Army,Управление армией
 Tech Tree,Дерево развития
@@ -135,7 +135,7 @@ Enable Tutorials,Включить обучение
 "Enable ""Permadeath""",Включить «Перманентную смерть»
 Skip All,Пропустить все
 Return to Base,Вернуться на базу
-Restart Mission,Начать заново миссию
+Restart Mission,Начать миссию заново
 Load Save,Загрузить сохранение
 Return to Title,Вернуться к игре
 Save/Load,Сохранить/Загрузить
@@ -144,5 +144,5 @@ Dismiss,Уволить
 Skip Chapter,Пропустить главу
 Classic Portraits,Классические портреты
 High-Res Font,Чёткий шрифт
-Map Sprite,Предметы на карте
+Map Sprite,Вид на карте
 Legends Chapters,Главы «Легенды»

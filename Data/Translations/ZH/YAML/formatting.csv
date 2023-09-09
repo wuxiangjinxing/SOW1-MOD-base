@@ -1,4 +1,4 @@
-Change to,改变为
+﻿Change to,改变为
 Demote to,降阶至
 Promote to,晋阶至
 (Unit perma-death is suspended),（已暂停单位永久死亡）
@@ -78,12 +78,12 @@ Enemies will have an increasing ability to command Risen as the playthrough prog
 Increases the starting morale of most enemies and makes them slightly more resistant to morale loss in combat.,增加绝大多数敌人的初始士气，并略微减少战斗给他们带来的士气损失。
 Boss squads become more resistant to all damage types,提升首领小队对所有伤害种类的抗性。
 Increases the effect of Zones of Control for ALL squads.,增加所有小队的控制区域效果。
-Story characters' positive stat modifiers are reduced. Increases the charge time for Powers.,故事角色的正向数值修饰器的效果被削减。延长圣灵之力的充能时间。
+Story characters' positive stat modifiers are reduced. Increases the charge time for Powers.,故事角色的正向数值修正系数的效果被削减。延长圣灵之力的充能时间。
 Each enemy leader is granted a Specalist trait that increases their power in certain situations.,所有敌方队长都被赋予一个能在特定情况下增强他们能力的专家特性。
 Increases the penalties associated with terrain and weather.,增加地形和天气惩罚。
 Enemies recieve an additional stat boost based on the number of previous playthroughs completed.,基于通关次数给予敌方额外的数值提升。
 Story characters will retain certain properties from the previous playthrough upon rejoining.,故事角色在入队时会保留从先前周目中获得的部分特性。
-"Non-unique, non-story characters will have their stat modifiers increased based on how many playthroughs they have survived.",非特殊且非故事角色的数值修饰器效果会基于其存活周目数得到加强。
+"Non-unique, non-story characters will have their stat modifiers increased based on how many playthroughs they have survived.",非特殊且非故事角色的数值修正系数效果会基于其存活周目数得到加强。
 All gilded troops from the previous run will lose their gilded status when carried over into the next playthrough. Cost to be reduced accordingly.,上一周目所有升至黄金职业的部队都会丧失其黄金职业状态。花费也会相应减少。
 Are you sure you want to refund all merits?,确定要回退所有华彩之证吗？
 Makes this troop lose their gilded status. Cost to be reduced accordingly.,使该部队失去其黄金职业状态。花费也会相应减少。
@@ -104,4 +104,3 @@ Attack power scales more slowly as stats increase,削减攻击力随数值增长
 Rate of decreased magic and healing efficacy with repeated use in the same Phase.,在同一回合内重复使用魔法与治疗的效力衰减率。
 Gunner volleys separated by row.,不同排的火枪兵分别齐射。
 Adjust shop prices.,调整商店价格
-Thank you for purchasing the Legends DLC! The New Game+ options on this page require a Clear Save to carry over your previous army. Clear Chapter 30 in the main quest and create a Clear Save after the ending credits to enable!,感谢您购买《传奇》DLC！此页面的新游戏+选项需要一份通关存档以继承您上一周目的军队。请先再通关一次主线第30章，并于制作人员名单结束后创建一份通关存档以解锁选项！

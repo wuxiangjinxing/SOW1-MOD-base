@@ -75,7 +75,7 @@ Morale,Боевой дух
 MORALE,БОЕВОЙ ДУХ
 Threat Rating,Уровень угрозы
 Move,Движение
-Deployed,В бою
+Deployed,Выставлен
 Scenario Results,Результаты сценария
 Objectives Captured,Целей захвачено
 Turns Taken,Сделано ходов
@@ -98,7 +98,7 @@ Mid,Сред.
 High,Высок.
 V.High,Оч. высок.
 MAX,Макс.
-Light,Лёгкие
+Light,Свет
 Dark,Тьма
 Earth,Земля
 Lightning,Молния

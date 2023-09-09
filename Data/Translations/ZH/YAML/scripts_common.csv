@@ -966,7 +966,7 @@ Lucky Trait to all units in Squad,小队所有单位获得幸运特性
 Squad is now Flying movement,小队现在的移动模式为飞行
 Squad Threat is reduced to 0,小队的威胁降至0
 Squad can now move after actions,小队现在可以在行动后移动
-post-action move if already Cavalry,如果是骑兵，则行动后再行动
+post-action move if already Cavalry,如果已经是骑兵小队，则行动后移动范围更广
 +50% HP of summoned Undead,+50%召唤不死单位的生命值
 Squad is immune to Stealth Attacks,小队免疫潜行攻击
 Gain SKL for every point of MAG,每点魔法都提供灵巧
@@ -1156,23 +1156,23 @@ Turns Taken,回合数
 Kills,击杀数
 Surrenders,迫降数
 Defeats,战败数
-Warfarer's Boots,æˆ˜å£«ä¹‹é´
-Shuffle becomes a free action,æ¢ä½å˜ä¸ºå…è´¹è¡ŒåŠ¨
-Duelist's Contract,å†³æ–—è€…çš„å¥‘çº¦
-All units on both teams get +1 attack at 1 range,æ•Œæˆ‘åŒæ–¹æ‰€æœ‰å•ä½åœ¨è·ç¦»ä¸º1æ—¶æ”»å‡»+1
-Do-It-Yourself Bandage,è‡ªåŠ©ç»·å¸¦
-Map heals are a free action,åœ°å›¾æ²»ç–—å˜ä¸ºå…è´¹è¡ŒåŠ¨
-Emperor's Missive,å¸çŽ‹æ••ä»¤
-Tier 1 Units take 50% damage,ä¸€é˜¶å•ä½æ‰¿ä¼¤å°†ä¸º50%
-Donari Charm,å¤šçº³å°”æ•™æŠ¤ç¬¦
-2 additional Map Heal charges,åœ°å›¾æ²»ç–—æ¬¡æ•°+2
-Commoner's Goblet,å¹³æ°‘çš„é«˜è„šæ¯
-Non-story squad leaders only,åªèƒ½ç”±éžæ•…äº‹è§’è‰²å°é˜Ÿé¢†è¢–ä½¿ç”¨
-Can only be equipped on Squads not led by story characters,åªèƒ½ç”±éžæ•…äº‹è§’è‰²å°é˜Ÿé¢†è¢–æ‰€çŽ‡é¢†çš„å°é˜Ÿè£…å¤‡
-Tailored Great Helm,å®šåˆ¶å·¨ç›”
-2 additional Armor per unit archetype in Squad,å°é˜Ÿä¸­æ¯å¤šä¸€ç±»å•ä½åŽŸåž‹ï¼ŒæŠ¤ç”²+2
-Thorny Charm,è†æ£˜æŠ¤ç¬¦
-Every Unit in Squad will resist 1 status effect per combat,å°é˜Ÿä¸­æ¯ä¸ªå•ä½æ¯åœºæˆ˜æ–—éƒ½èƒ½æŠµæŠ—ä¸€ç§çŠ¶æ€æ•ˆæžœ
+Warfarer's Boots,战士之靴
+Shuffle becomes a free action,换位变为免费行动
+Duelist's Contract,决斗者的契约
+All units on both teams get +1 attack at 1 range,敌我双方所有单位在距离为1时攻击次数+1
+Do-It-Yourself Bandage,自助绷带
+Map heals are a free action,地图治疗变为免费行动
+Emperor's Missive,帝王敕令
+Tier 1 Units take 50% damage,一阶单位承伤降为50%
+Donari Charm,多纳尔教护符
+2 additional Map Heal charges,地图治疗次数+2
+Commoner's Goblet,平民的高脚杯
+Non-story squad leaders only,只能由非故事角色小队领袖使用
+Can only be equipped on Squads not led by story characters,只能由非故事角色小队领袖所率领的小队装备
+Tailored Great Helm,定制巨盔
+2 additional Armor per unit archetype in Squad,小队中每多一类单位原型，护甲+2
+Thorny Charm,荆棘护符
+Every Unit in Squad will resist 1 status effect per combat,小队中每个单位每场战斗都能抵抗一种状态效果
 Raid Captain,劫掠队长
 -2 Capacity cost for Light Melee classes,轻型近战职业占用规模-2
 "Magician class that attacks in a large area. Lowers effectiveness of heals, Mage and Dragon attacks.",法师单位，群体攻击。降低治疗、法师和龙息攻击的效果。
@@ -1218,3 +1218,4 @@ Azuros has warned of a dire situation in the deserts of Sayunaa. The Nephilim Ar
 Damage bonus against Heavy Units.,对重装单位拥有伤害加成。
 Anti-Armor Specialist,反护甲专家
 The New Game+ feature requires a clear save. Beat the boss once to create a clear save!,新游戏+ 需要一个通关存档才能开启。请先击败一次boss以创建一个通关存档！
+Enemies will avoid targeting this Squad if possible,

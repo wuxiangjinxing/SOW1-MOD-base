@@ -101,7 +101,7 @@ MAX,最大
 Light,光
 Dark,暗
 Earth,地
-Lightning,电
+Lightning,雷
 Water,水
 Fire,火
 Turn,回合
@@ -184,9 +184,9 @@ Limited Exchange,有限交换
 Enemy Advanced AI,进阶版敌方AI
 Enemy Cavalry Hit-And-Run,敌方骑兵打了就跑
 Battle Healing Adjustment,战场治疗调整
-Artifact Capacity Modifier,神器规模修饰器
+Artifact Capacity Modifier,神器规模修正系数
 Damage Formula Rebalance,伤害公式调整
-Magic Fatigue Modifier,魔法疲劳修饰器
+Magic Fatigue Modifier,魔法疲劳修正系数
 Smart Gunners,更为聪明的火枪兵
 Specalist,专家
 Start Game!,开始游戏！
